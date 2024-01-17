@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #f4f4f4;
+}
+
+.lista-container {
+    margin-top: 80px; /* Espacio superior para centrar la lista en la pantalla */
+}
+
+.eventosNumerados {
+    padding: 0;
+    text-align: center;
+    border: 2px solid #555;
+    padding: 10px 20px;
+    margin: 10px 0;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    overflow: hidden;
+}
+
+.eventosNumerados a {
+    text-decoration: none;
+    color: #333;
+    font-size: 16px;
+}
+
+.eventosNumerados:hover {
+    transform: scale(1.1);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
+.eventosNumerados img {
+    width: 250px;
+}
+
+

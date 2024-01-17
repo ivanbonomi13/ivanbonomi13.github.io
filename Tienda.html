@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="EstiloTienda.css">
+    <link rel="stylesheet" type="text/css" href="EstiloPaginaPrincipal.css">
+    <title>Tienda UFC</title>
+
+
+</head>
+<body>
+    <header>
+          <nav>
+            <a href="Carteleras.html" class="menu-item left-menu">
+                Eventos
+            </a>
+            <a href="Rankings.html" class="menu-item left-menu">
+                Rankings
+            </a>
+            <a href="Index.html" class="menu-item ufc-logo">
+                UFC
+            </a>
+            <a href="Peleadores.html" class="menu-item right-menu">
+                Peleadores
+            </a>
+            <a href="Tienda.html" class="menu-item right-menu">
+                Tienda
+            </a>
+          </nav>
+        </header>
+<div class="contenedor-indumentaria">
+    <div class="remeras">
+    <h2>Remeras</h2>
+    <div class="producto">
+        <img src="Imagenes Pagina Ufc/Remera UFC Hawaii.jpg" alt="Remera UFC Hawaii">
+        <button onclick="agregarAlCarrito('Remera UFC Hawaii', 1)">Agregar al Carrito</button>
+    </div>
+    <div class="producto">
+        <img src="Imagenes Pagina Ufc/Remera Conor Mcgregor.jpg" alt="Remera Conor Mcgregor">
+        <button onclick="agregarAlCarrito('Remera Conor Mcgregor', 1)">Agregar al Carrito</button>
+    </div>
+    <div class="producto">
+        <img src="Imagenes Pagina Ufc/Remera UFC Usa.jpg" alt="Remera UFC Usa">
+        <button onclick="agregarAlCarrito('Remera UFC Usa', 1)">Agregar al Carrito</button>
+    </div>
+
+
+
+    
+</div>
+
+<!-- Dentro de la sección de Accesorios -->
+<div class="accesorios">
+    <h2>Accesorios</h2>
+    <div class="producto">
+        <img src="Imagenes Pagina Ufc/Bolso UFC.jpg" alt="Bolso UFC">
+        <button onclick="agregarAlCarrito('Bolso UFC', 1)">Agregar al Carrito</button>
+    </div>
+    <div class="producto">
+        <img src="Imagenes Pagina Ufc/Cinturon Campeon.jpg" alt="Cinturon Campeon">
+        <button onclick="agregarAlCarrito('Cinturon Campeon', 1)">Agregar al Carrito</button>
+    </div>
+    <div class="producto">
+        <img src="Imagenes Pagina Ufc/Gorra UFC.jpg" alt="Gorra UFC">
+        <button onclick="agregarAlCarrito('Gorra UFC', 1)">Agregar al Carrito</button>
+    </div>
+</div>
+</div>
+
+
+<!-- Botón para ver el carrito -->
+    <button class="icon-button" id="verCarritoBtn" onclick="abrirCarritoModal()">
+    <span class="icon" id="icon">🛒</span>
+    <span class="text">Ver carrito</span>
+  </button>
+
+    <!-- Modal del carrito -->
+    <div id="carritoModal" class="modal">
+        <div class="modal-barra" onmousedown="iniciarArrastre(event)">
+            <span class="cerrar" onclick="cerrarCarritoModal()">&times;</span>
+        </div>
+        <div class="modal-contenido">
+            <div id="carritoVentana"></div>
+            <button id="vaciarCarritoBtn" onclick="vaciarCarrito()">Vaciar Carrito</button>
+            <button id="cerrarCarritoBtn" onclick="cerrarCarritoModal()">Cerrar Carrito</button>
+        </div>
+    </div>
+   <script src="carrito.js"></script>
+
+   <footer id="footer">
+       <div class="content-footer">
+         <label class="lbl-footer">Todos los derechos reservados ©</label>
+       </div>
+    </footer>
+</body>
+</html>
+

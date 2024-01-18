@@ -1,0 +1,741 @@
+{
+    "categorias": [
+        {
+            "nombre": "Peso Mosca",
+            "campeon": "Alexandre Pantoja",
+            "peleadores": [
+                {
+                    "posicion": 1,
+                    "nombre": "Brandon Moreno"
+                },
+                {
+                    "posicion": 2,
+                    "nombre": "Deiveson Figueiredo"
+                },
+                {
+                    "posicion": 3,
+                    "nombre": "Brandon Royval"
+                },
+                {
+                    "posicion": 4,
+                    "nombre": "Kai Kara-France"
+                },
+                {
+                    "posicion": 5,
+                    "nombre": "Matheus Nicolau"
+                },
+                {
+                    "posicion": 6,
+                    "nombre": "Manel Kape"
+                },
+                {
+                    "posicion": 7,
+                    "nombre": "Alex Perez"
+                },
+                {
+                    "posicion": 8,
+                    "nombre": "Muhammad Mokaev"
+                },
+                {
+                    "posicion": 9,
+                    "nombre": "Matt Schnell"
+                },
+                {
+                    "posicion": 10,
+                    "nombre": "Tim Elliott"
+                },
+                {
+                    "posicion": 11,
+                    "nombre": "Tagir Ulanbekov"	
+                    
+                },
+                {
+                    "posicion": 12,
+                    "nombre": "Steve Erceg"
+                },
+                {
+                    "posicion": 13,
+                    "nombre": "Sumudaerji"
+                },
+                {
+                    "posicion": 14,
+                    "nombre": "David Dvorak"
+                },
+                {
+                    "posicion": 15,
+                    "nombre": "Tatsuro Taira"
+                }
+            ]
+        },
+        {
+            "nombre": "Peso Gallo",
+            "campeon": "Sean O'Malley",
+            "peleadores": [
+                {
+                    "posicion": 1,
+                    "nombre": "Aljamain Sterling"
+                },
+                {
+                    "posicion": 2,
+                    "nombre": "Merab Dvalishvili"
+                },
+                {
+                    "posicion": 3,
+                    "nombre": "Henry Cejudo"
+                },
+                {
+                    "posicion": 4,
+                    "nombre": "Cory Sandhagen"
+                },
+                {
+                    "posicion": 5,
+                    "nombre": "Petr Yan"
+                },
+                {
+                    "posicion": 6,
+                    "nombre": "Marlon Vera"
+                },
+                {
+                    "posicion": 7,
+                    "nombre": "Song Yadong"
+                },
+                {
+                    "posicion": 8,
+                    "nombre": "Deiveson Figueiredo"
+                },
+                {
+                    "posicion": 9,
+                    "nombre": "Rob Font"
+                },
+                {
+                    "posicion": 10,
+                    "nombre": "Dominick Cruz"
+                },
+                {
+                    "posicion": 11,
+                    "nombre": "Pedro Munhoz"	
+                    
+                },
+                {
+                    "posicion": 12,
+                    "nombre": "Jonathan Martinez"
+                },
+                {
+                    "posicion": 13,
+                    "nombre": "Umar Nurmagomedov"
+                },
+                {
+                    "posicion": 14,
+                    "nombre": "Mario Bautista"
+                },
+                {
+                    "posicion": 15,
+                    "nombre": "Ricky Simon"
+                }
+            ]
+        },
+        {
+            "nombre": "Peso Pluma ",
+            "campeon": "",
+            "peleadores": [
+                {
+                    "posicion": 1,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 2,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 3,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 4,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 5,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 6,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 7,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 8,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 9,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 10,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 11,
+                    "nombre": ""	
+                    
+                },
+                {
+                    "posicion": 12,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 13,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 14,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 15,
+                    "nombre": ""
+                }
+            ]
+        },
+        {
+            "nombre": "Peso Ligero",
+            "campeon": "",
+            "peleadores": [
+                {
+                    "posicion": 1,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 2,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 3,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 4,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 5,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 6,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 7,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 8,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 9,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 10,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 11,
+                    "nombre": ""	
+                    
+                },
+                {
+                    "posicion": 12,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 13,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 14,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 15,
+                    "nombre": ""
+                }
+            ]
+        },
+        {
+            "nombre": "Peso Welter",
+            "campeon": "",
+            "peleadores": [
+                {
+                    "posicion": 1,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 2,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 3,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 4,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 5,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 6,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 7,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 8,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 9,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 10,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 11,
+                    "nombre": ""	
+                    
+                },
+                {
+                    "posicion": 12,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 13,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 14,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 15,
+                    "nombre": ""
+                }
+            ]
+        },
+        {
+            "nombre": "Peso Medio",
+            "campeon": "",
+            "peleadores": [
+                {
+                    "posicion": 1,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 2,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 3,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 4,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 5,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 6,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 7,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 8,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 9,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 10,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 11,
+                    "nombre": ""	
+                    
+                },
+                {
+                    "posicion": 12,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 13,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 14,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 15,
+                    "nombre": ""
+                }
+            ]
+        },
+        {
+            "nombre": "Peso Semipesado",
+            "campeon": "",
+            "peleadores": [
+                {
+                    "posicion": 1,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 2,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 3,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 4,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 5,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 6,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 7,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 8,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 9,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 10,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 11,
+                    "nombre": ""	
+                    
+                },
+                {
+                    "posicion": 12,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 13,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 14,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 15,
+                    "nombre": ""
+                }
+            ]
+        },
+        {
+            "nombre": "Peso Pesado",
+            "campeon": "",
+            "peleadores": [
+                {
+                    "posicion": 1,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 2,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 3,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 4,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 5,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 6,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 7,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 8,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 9,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 10,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 11,
+                    "nombre": ""	
+                    
+                },
+                {
+                    "posicion": 12,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 13,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 14,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 15,
+                    "nombre": ""
+                }
+            ]
+        },
+        {
+            "nombre": "Peso Paja Femenino",
+            "campeon": "",
+            "peleadores": [
+                {
+                    "posicion": 1,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 2,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 3,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 4,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 5,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 6,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 7,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 8,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 9,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 10,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 11,
+                    "nombre": ""	
+                    
+                },
+                {
+                    "posicion": 12,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 13,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 14,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 15,
+                    "nombre": ""
+                }
+            ]
+        },
+        {
+            "nombre": "Peso Mosca Femenino",
+            "campeon": "",
+            "peleadores": [
+                {
+                    "posicion": 1,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 2,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 3,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 4,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 5,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 6,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 7,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 8,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 9,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 10,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 11,
+                    "nombre": ""	
+                    
+                },
+                {
+                    "posicion": 12,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 13,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 14,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 15,
+                    "nombre": ""
+                }
+            ]
+        },
+        {
+            "nombre": "Peso Gallo Femenino",
+            "campeon": "",
+            "peleadores": [
+                {
+                    "posicion": 1,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 2,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 3,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 4,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 5,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 6,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 7,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 8,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 9,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 10,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 11,
+                    "nombre": ""	
+                    
+                },
+                {
+                    "posicion": 12,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 13,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 14,
+                    "nombre": ""
+                },
+                {
+                    "posicion": 15,
+                    "nombre": ""
+                }
+            ]
+        }
+    ]
+}

@@ -1,43 +1,38 @@
 body {
     margin: 0;
     padding: 0;
-    body 
     font-family: 'Helvetica', sans-serif;
     background-color: #FFF;
 }
 
-
-
-.contenedor-rankings {
+#contenedor-rankings {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
     padding: 5px;
-    margin-top: 50px;
-
+    margin-top: 70px;
 }
 
 .lista-rankings {
     width: 375px;
     margin: 13px;
     padding: 35px;
-    background-color: #FFF;
+    background-color: #ffffff;
 }
 
 .lista-rankings a {
     box-shadow: 10px;
 }
 
-.lista-rankings  img {
+.lista-rankings img {
     padding-left: 40px;
     width: 260px;
     height: auto;
     transition: transform 0.3s ease;
-    
 }
 
 .lista-rankings a img:hover {
-    transform: scale(1.1) ;
+    transform: scale(1.1);
 }
 
 .lista-rankings h2 {
@@ -59,11 +54,13 @@ body {
 .lista-rankings ol {
     margin-top: 15px;
 }
+
 li a {
     text-decoration: none;
     color: #000;
     margin-left: 25%;
 }
+
 li:hover {
     background-color: #E3E3E3;
     cursor: pointer;
@@ -73,6 +70,8 @@ li {
     list-style-type: none;
     margin: 5px 0;
     padding: 5px;
+    display: flex;
+    justify-content: space-between;
 }
 
 ul {
@@ -81,6 +80,6 @@ ul {
     z-index: 100;
     border-top: 1px solid #EAEAEA;
     background-color: #FFF;
-
 }
+
 /* Agrega más estilos según sea necesario */

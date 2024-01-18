@@ -136,141 +136,141 @@
         },
         {
             "nombre": "Peso Pluma ",
-            "campeon": "",
+            "campeon": "Alexander Volkanovski",
             "peleadores": [
                 {
                     "posicion": 1,
-                    "nombre": ""
+                    "nombre": "Max Holloway"
                 },
                 {
                     "posicion": 2,
-                    "nombre": ""
+                    "nombre": "Yair Rodriguez"
                 },
                 {
                     "posicion": 3,
-                    "nombre": ""
+                    "nombre": "Brian Ortega"
                 },
                 {
                     "posicion": 4,
-                    "nombre": ""
+                    "nombre": "Arnold Allen"
                 },
                 {
                     "posicion": 5,
-                    "nombre": ""
+                    "nombre": "Ilia Topuria"
                 },
                 {
                     "posicion": 6,
-                    "nombre": ""
+                    "nombre": "Josh Emmett"
                 },
                 {
                     "posicion": 7,
-                    "nombre": ""
+                    "nombre": "Calvin Kattar"
                 },
                 {
                     "posicion": 8,
-                    "nombre": ""
+                    "nombre": "Giga Chikadze"
                 },
                 {
                     "posicion": 9,
-                    "nombre": ""
+                    "nombre": "Movsar Evloev"
                 },
                 {
                     "posicion": 10,
-                    "nombre": ""
+                    "nombre": "Bryce Mitchell"
                 },
                 {
                     "posicion": 11,
-                    "nombre": ""	
+                    "nombre": "Edson Barboza"	
                     
                 },
                 {
                     "posicion": 12,
-                    "nombre": ""
+                    "nombre": "Sodiq Yusuff"
                 },
                 {
                     "posicion": 13,
-                    "nombre": ""
+                    "nombre": "Dan Ige"
                 },
                 {
                     "posicion": 14,
-                    "nombre": ""
+                    "nombre": "Lerone Murphy"
                 },
                 {
                     "posicion": 15,
-                    "nombre": ""
+                    "nombre": "Alex Caceres"
                 }
             ]
         },
         {
             "nombre": "Peso Ligero",
-            "campeon": "",
+            "campeon": "Islam Makhachev",
             "peleadores": [
                 {
                     "posicion": 1,
-                    "nombre": ""
+                    "nombre": "Charles Oliveira"
                 },
                 {
                     "posicion": 2,
-                    "nombre": ""
+                    "nombre": "Justin Gaethje"
                 },
                 {
                     "posicion": 3,
-                    "nombre": ""
+                    "nombre": "Dustin Poirier"
                 },
                 {
                     "posicion": 4,
-                    "nombre": ""
+                    "nombre": "Arman Tsarukyan"
                 },
                 {
                     "posicion": 5,
-                    "nombre": ""
+                    "nombre": "Michael Chandler"
                 },
                 {
                     "posicion": 6,
-                    "nombre": ""
+                    "nombre": "Mateusz Gamrot"
                 },
                 {
                     "posicion": 7,
-                    "nombre": ""
+                    "nombre": "Beneil Dariush"
                 },
                 {
                     "posicion": 8,
-                    "nombre": ""
+                    "nombre": "Rafael Fiziev"
                 },
                 {
                     "posicion": 9,
-                    "nombre": ""
+                    "nombre": "Jalin Turner"
                 },
                 {
                     "posicion": 10,
-                    "nombre": ""
+                    "nombre": "Dan Hooker"
                 },
                 {
                     "posicion": 11,
-                    "nombre": ""	
+                    "nombre": "Benoit Saint Denis"	
                     
                 },
                 {
                     "posicion": 12,
-                    "nombre": ""
+                    "nombre": "Rafael Dos Anjos"
                 },
                 {
                     "posicion": 13,
-                    "nombre": ""
+                    "nombre": "Renato Moicano"
                 },
                 {
                     "posicion": 14,
-                    "nombre": ""
+                    "nombre": "Bobby Green"
                 },
                 {
                     "posicion": 15,
-                    "nombre": ""
+                    "nombre": "Drew Dober"
                 }
             ]
         },
         {
             "nombre": "Peso Welter",
-            "campeon": "",
+            "campeon": "Leon Edwards",
             "peleadores": [
                 {
                     "posicion": 1,
@@ -337,7 +337,7 @@
         },
         {
             "nombre": "Peso Medio",
-            "campeon": "",
+            "campeon": "Sean Strickland",
             "peleadores": [
                 {
                     "posicion": 1,
@@ -404,7 +404,7 @@
         },
         {
             "nombre": "Peso Semipesado",
-            "campeon": "",
+            "campeon": "Alex Pereira",
             "peleadores": [
                 {
                     "posicion": 1,
@@ -471,7 +471,7 @@
         },
         {
             "nombre": "Peso Pesado",
-            "campeon": "",
+            "campeon": "Jon Jones",
             "peleadores": [
                 {
                     "posicion": 1,
@@ -538,7 +538,7 @@
         },
         {
             "nombre": "Peso Paja Femenino",
-            "campeon": "",
+            "campeon": "Zhang Weili",
             "peleadores": [
                 {
                     "posicion": 1,
@@ -605,7 +605,7 @@
         },
         {
             "nombre": "Peso Mosca Femenino",
-            "campeon": "",
+            "campeon": "Alexa Grasso",
             "peleadores": [
                 {
                     "posicion": 1,
@@ -672,7 +672,7 @@
         },
         {
             "nombre": "Peso Gallo Femenino",
-            "campeon": "",
+            "campeon": "Peleador Vacante Mujer",
             "peleadores": [
                 {
                     "posicion": 1,

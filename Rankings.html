@@ -53,32 +53,71 @@
             xhr.send();
 
             function construirRankings(categorias) {
+                const contenedorRankings = document.getElementById('contenedor-rankings');
+
                 for (const categoria of categorias) {
-                    const lista = document.createElement('div');
-                    lista.classList.add('lista-rankings');
+                    const contenedorTabla = document.createElement('div');
+                    contenedorTabla.classList.add('contenedor-tabla');
 
-                    lista.innerHTML = `<h2>${categoria.nombre}</h2>
-                                        <p>Campeon</p>
-                                        <h3>${categoria.campeon}</h3>
-                                        <a href="Peleadores/${categoria.campeon}.html">
-                                            <img src="Imagenes pagina ufc/${categoria.campeon}.jpg">
-                                        </a>`;
+                    const tabla = document.createElement('table');
+                    tabla.classList.add('tabla-rankings');
 
-                    const ul = document.createElement('ul');
+                    const filaCabecera = document.createElement('tr');
+                    const celdaCabecera = document.createElement('th');
+                    celdaCabecera.colSpan = 2;
+
+                    const encabezadoCategoria = document.createElement('div');
+                    encabezadoCategoria.classList.add('rankings--athlete--champion', 'clearfix', 'fadeIn', 'expanded');
+
+                    const infoCategoria = document.createElement('div');
+                    infoCategoria.classList.add('info');
+
+                    const nombreCategoria = document.createElement('h4');
+                    nombreCategoria.textContent = categoria.nombre;
+
+                    const nombreCampeon = document.createElement('h5');
+                    const enlaceCampeon = document.createElement('a');
+                    enlaceCampeon.href = `/Peleadores/${categoria.campeon}.html`; // Reemplaza con la ruta correcta
+                    enlaceCampeon.hreflang = 'es'; // Reemplaza con el idioma correcto
+                    enlaceCampeon.appendChild(document.createTextNode(categoria.campeon));
+                    nombreCampeon.appendChild(enlaceCampeon);
+
+                    const fraseCampeon = document.createElement('h6');
+                    fraseCampeon.classList.add('text');
+                    fraseCampeon.textContent = 'Campeón';
+
+                    const imagenCampeon = document.createElement('img');
+                    imagenCampeon.src = `Imagenes pagina ufc/${categoria.campeon}.jpg`; // Reemplaza con la ruta correcta de la imagen
+                    imagenCampeon.alt = `${categoria.campeon}`;
+
+                    infoCategoria.appendChild(nombreCategoria);
+                    infoCategoria.appendChild(nombreCampeon);
+                    infoCategoria.appendChild(fraseCampeon);
+
+                    encabezadoCategoria.appendChild(infoCategoria);
+                    encabezadoCategoria.appendChild(imagenCampeon);
+
+                    celdaCabecera.appendChild(encabezadoCategoria);
+                    filaCabecera.appendChild(celdaCabecera);
+                    tabla.appendChild(filaCabecera);
+
                     for (const peleador of categoria.peleadores) {
-                        const li = document.createElement('li');
-                        li.innerHTML = `${peleador.posicion}<a>${peleador.nombre}</a>`;
-                        ul.appendChild(li);
+                        const filaPeleador = document.createElement('tr');
+                        filaPeleador.innerHTML = `<td class="posicion">${peleador.posicion}</td>
+                                                <td class="peleador-ranking" colspan="1"><a href="Peleadores/${peleador.nombre}.html">${peleador.nombre}</a></td>`;
+                        tabla.appendChild(filaPeleador);
                     }
 
-                    lista.appendChild(ul);
-                    contenedorRankings.appendChild(lista);
+                    contenedorTabla.appendChild(tabla);
+                    contenedorRankings.appendChild(contenedorTabla);
                 }
             }
         }
 
         window.onload = mostrarRankings;
     </script>
+
+
     <footer id="footer">
         <div class="content-footer">
             <label class="lbl-footer">Todos los derechos reservados ©</label>

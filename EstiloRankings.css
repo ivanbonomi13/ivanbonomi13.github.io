@@ -51,12 +51,23 @@ body {
 
 .tabla-rankings img:hover {
     transform: scale(1.1);
-    z-index: -2; /* Asegura que la imagen esté detrás del borde */
+    z-index: -2;
+    /* Asegura que la imagen esté detrás del borde */
 }
 
-.posicion:hover,
-.peleador-ranking:hover {
-    background-color: #E3E3E3;
+.posicion {
+    font-weight: bold;
+    padding: 5px;
+    width: 5px;
+}
+
+.posicion,
+.peleador-ranking {
+    font-size: 12px;
+}
+
+.posicion:hover{
+    background-color: #e3e3e3;
 }
 
 h5 {
@@ -71,16 +82,7 @@ h6 {
     color: #abadb1;
 }
 
-.posicion {
-    font-size: 12px;
-    font-weight: bold;
-    padding: 5px;
-    width: 5px;
-}
 
-.peleador-ranking {
-    font-size: 12px;
-}
 
 h4 {
     font-size: 14px;
@@ -94,7 +96,8 @@ h4 {
     justify-content: space-between;
     align-items: center;
     position: relative;
-    z-index: 1;/* Ajusta el z-index según sea necesario */
+    z-index: 1;
+    /* Ajusta el z-index según sea necesario */
     overflow: hidden;
 }
 

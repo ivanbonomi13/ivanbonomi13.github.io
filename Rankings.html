@@ -104,9 +104,41 @@
                     for (const peleador of categoria.peleadores) {
                         const filaPeleador = document.createElement('tr');
                         filaPeleador.innerHTML = `<td class="posicion">${peleador.posicion}</td>
-                                                <td class="peleador-ranking" colspan="1"><a href="Peleadores/${peleador.nombre}.html">${peleador.nombre}</a></td>`;
+                                                <td class="peleador-ranking" id="miElemento" colspan="1"><a href="Peleadores/${peleador.nombre}.html">${peleador.nombre}</a></td>`;
                         tabla.appendChild(filaPeleador);
                     }
+
+                    // Agregar eventos de mouseover y mouseout a cada elemento anterior y elemento-a-estilar
+                    const elementosAnteriores = document.querySelectorAll('.posicion');
+                    const elementosAestilar = document.querySelectorAll('.peleador-ranking');
+
+                    elementosAnteriores.forEach(function (elementoAnterior, index) {
+                        elementoAnterior.addEventListener('mouseover', function () {
+                            // Cambiar el fondo tanto del elemento anterior como del elemento-a-estilar
+                            elementoAnterior.style.backgroundColor = '#e3e3e3';
+                            elementosAestilar[index].style.backgroundColor = '#e3e3e3';
+                        });
+
+                        elementoAnterior.addEventListener('mouseout', function () {
+                            // Restaurar el fondo predeterminado tanto del elemento anterior como del elemento-a-estilar
+                            elementoAnterior.style.backgroundColor = '#fff';
+                            elementosAestilar[index].style.backgroundColor = '#fff';
+                        });
+                    });
+
+                    elementosAestilar.forEach(function (elementoAestilar, index) {
+                        elementoAestilar.addEventListener('mouseover', function () {
+                            // Cambiar el fondo tanto del elemento anterior como del elemento-a-estilar
+                            elementosAnteriores[index].style.backgroundColor = '#e3e3e3';
+                            elementoAestilar.style.backgroundColor = '#e3e3e3';
+                        });
+
+                        elementoAestilar.addEventListener('mouseout', function () {
+                            // Restaurar el fondo predeterminado tanto del elemento anterior como del elemento-a-estilar
+                            elementosAnteriores[index].style.backgroundColor = '#fff';
+                            elementoAestilar.style.backgroundColor = '#fff';
+                        });
+                    });
 
                     contenedorTabla.appendChild(tabla);
                     contenedorRankings.appendChild(contenedorTabla);
@@ -115,6 +147,7 @@
         }
 
         window.onload = mostrarRankings;
+
     </script>
 
 

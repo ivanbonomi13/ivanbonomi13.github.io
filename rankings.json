@@ -337,15 +337,15 @@
         },
         {
             "nombre": "Peso Medio",
-            "campeon": "Sean Strickland",
+            "campeon": "Dricus Du Plessis",
             "peleadores": [
                 {
                     "posicion": 1,
-                    "nombre": "Israel Adesanya"
+                    "nombre": "Sean Strickland"
                 },
                 {
                     "posicion": 2,
-                    "nombre": "Dricus Du Plessis"
+                    "nombre": "Israel Adesanya"
                 },
                 {
                     "posicion": 3,

@@ -1,0 +1,165 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Helvetica', sans-serif;
+  background-color: #fff;
+}
+
+
+.contenedor-peleadores {
+  margin-top: 80px;
+  /* Ajusta según la altura de tu nav y header combinados */
+}
+
+.contenedor-peleadores {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  padding: 5px;
+
+}
+
+.peleadores {
+  width: 350px;
+  height: 250px;
+  margin: 15px;
+  padding: 35px;
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.peleadores div {
+  transition: 0.5s;
+}
+
+.front,
+.back {
+  backface-visibility: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+}
+
+.peleadores .front {
+  transform: perspective(500px) rotateY(0deg);
+}
+
+.peleadores .back {
+  transform: perspective(500px) rotateY(180deg);
+}
+
+.peleadores:hover .front {
+  transform: perspective(500px) rotateY(180deg);
+}
+
+.peleadores:hover .back {
+  transform: perspective(500px) rotateY(360deg);
+}
+
+.peleadores .front h2 {
+  font-size: 30px;
+}
+
+.peleadores .front h5 {
+  padding-top: 10px;
+}
+
+.peleadores .front img {
+  width: 200px;
+  box-shadow: 0px 20px 10px -15px gray;
+}
+
+.peleadores .back {
+  box-shadow: 0px 0px 50px black;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  overflow: hidden;
+}
+
+.peleadores .back h2 {
+  margin-top: 50px;
+  margin-right: 90px;
+}
+
+.peleadores .back p {
+  margin-right: 90px;
+}
+
+.contentBox {
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.buttonBox {
+  margin: 20px 100px 0px 10px;
+  position: relative;
+  max-width: 150px;
+  min-width: 100px;
+  flex: 20%;
+}
+
+button {
+  width: 100%;
+  height: 40px;
+  position: relative;
+  background: #000;
+  text-transform: uppercase;
+  color: white;
+  font-weight: 700;
+  letter-spacing: 1px;
+  border: none;
+  font-size: 15px;
+  outline: none;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  cursor: pointer;
+}
+
+button a {
+  text-decoration: none;
+  color: #FFF;
+  font-size: 12px;
+  padding: 10px;
+}
+
+
+
+.peleadores .back img {
+  width: auto;
+  /* Asegura que la imagen no se desborde del contenedor */
+  height: 200px;
+  object-fit: cover;
+  margin-left: 230px;
+  margin-top: -170px;
+
+}
+
+.boton::before {
+  content: '';
+  position: absolute;
+  bottom: 0%;
+  left: 0px;
+  width: 100%;
+  height: 3px;
+  background: #D82B2B;
+  display: block;
+  transform-origin: right top;
+  transform: scale(0, 1);
+  transition: transform 1s cubic-bezier(1, 0, 0, 1)
+}
+
+.boton:hover::before {
+  transform-origin: left top;
+  transform: scale(1, 1)
+}

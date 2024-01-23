@@ -35,6 +35,18 @@ nav {
     z-index: 1000;
 }
 
+#logo-ufc  {
+    transform: scale(0.5);
+    transition: 0.3s;
+    filter: saturate(0) brightness(0) invert(1);
+}
+
+#logo-ufc:hover  {
+    filter: none;
+    transform: scale(0.75);
+}
+
+
 /* Estilos generales de los elementos del menú */
 .menu-item {
     padding: 5px 10px;
@@ -52,8 +64,8 @@ nav {
 
 /* Efectos al pasar el cursor por encima del enlace en la barra de navegación */
 .menu-item:hover {
-    background-color: #CE2020;
-    transform: scale(1.1);
+    color: #CE2020;
+    transform: scale(1.5);
 }
 
 /* Media queries para hacer el diseño responsive */

@@ -5,7 +5,8 @@
     <meta charset="UTF-8">
     <link rel="stylesheet" href="EstiloTienda.css">
     <link rel="stylesheet" type="text/css" href="normalize.css">
-    <link rel="stylesheet" type="text/css" href="EstiloPaginaPrincipal.css">
+    <link rel="stylesheet" type="text/css" href="EstiloShared.css">
+    <link rel="icon" href="Imagenes pagina ufc\LogoUFC.ico" />
     <title>Tienda UFC</title>
 
 
@@ -72,10 +73,12 @@
 
 
     <!-- Botón para ver el carrito -->
-    <button class="icon-button" id="verCarritoBtn" onclick="abrirCarritoModal()">
-        <span class="icon" id="icon">🛒</span>
-        <span class="text">Ver carrito</span>
-    </button>
+    <div class="contenedor-boton">
+        <button class="icon-button" id="verCarritoBtn" onclick="abrirCarritoModal()">
+            <span class="icon" id="icon">🛒</span>
+            <span class="text">Ver carrito</span>
+        </button>
+    </div>
 
     <!-- Modal del carrito -->
     <div id="carritoModal" class="modal">

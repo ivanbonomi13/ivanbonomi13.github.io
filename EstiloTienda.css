@@ -108,12 +108,17 @@ section {
     cursor: pointer;
 }
 
+.contenedor-boton {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .icon-button {
   position: relative;
   font-size: 16px;
   padding: 10px;
-  margin-top: 20px;
-  margin-bottom: 30px;
+  margin: 20px 20px;
   cursor: pointer;
   border: none;
   background-color: #F42A2A;
@@ -149,3 +154,4 @@ section {
 .icon-button:hover {
   background-color: #F42A2A;
 }
+

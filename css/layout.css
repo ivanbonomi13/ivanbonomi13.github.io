@@ -38,7 +38,7 @@ nav {
 #logo-ufc  {
     transform: scale(0.5);
     transition: 0.3s;
-    filter: saturate(0) brightness(0) invert(1);
+    filter: brightness(0) invert(1);
 }
 
 #logo-ufc:hover  {

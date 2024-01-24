@@ -1,3 +1,10 @@
+@font-face {
+    font-family: 'Sternbach';
+    src: url(/Fonts/Sternbach-Bold.otf);
+    font-size: 10px;
+}
+
+
 /* Estilos para el header */
 header {
     background-color: #FFF;
@@ -53,8 +60,9 @@ nav {
     margin: 0 3rem;
     text-align: center;
     color: white;
-    text-decoration: none;
-    font-size: 16px;
+    text-decoration: none;    
+    font-family: 'Sternbach';
+    font-size: 20px;
     width: 100%;
     height: auto;
     transition: 0.3s;

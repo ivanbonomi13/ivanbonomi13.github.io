@@ -10,7 +10,7 @@
                 },
                 {
                     "posicion": 2,
-                    "nombre": "Deiveson Figueiredo"
+                    "nombre": "Amir Albazi"
                 },
                 {
                     "posicion": 3,
@@ -148,31 +148,31 @@
                 },
                 {
                     "posicion": 3,
-                    "nombre": "Brian Ortega"
-                },
-                {
-                    "posicion": 4,
-                    "nombre": "Arnold Allen"
-                },
-                {
-                    "posicion": 5,
                     "nombre": "Ilia Topuria"
                 },
                 {
+                    "posicion": 4,
+                    "nombre": "Brian Ortega"
+                },
+                {
+                    "posicion": 5,
+                    "nombre": "Movsar Evloev"
+                },
+                {
                     "posicion": 6,
-                    "nombre": "Josh Emmett"
+                    "nombre": "Arnold Allen"
                 },
                 {
                     "posicion": 7,
-                    "nombre": "Calvin Kattar"
+                    "nombre": "Josh Emmett"
                 },
                 {
                     "posicion": 8,
-                    "nombre": "Giga Chikadze"
+                    "nombre": "Calvin Kattar"
                 },
                 {
                     "posicion": 9,
-                    "nombre": "Movsar Evloev"
+                    "nombre": "Giga Chikadze"
                 },
                 {
                     "posicion": 10,
@@ -247,12 +247,12 @@
                 },
                 {
                     "posicion": 11,
-                    "nombre": "Benoit Saint Denis"	
+                    "nombre": "Rafael Dos Anjos"	
                     
                 },
                 {
                     "posicion": 12,
-                    "nombre": "Rafael Dos Anjos"
+                    "nombre": "Benoit Saint Denis"
                 },
                 {
                     "posicion": 13,
@@ -319,11 +319,11 @@
                 },
                 {
                     "posicion": 12,
-                    "nombre": "Kevin Holland"
+                    "nombre": "Neil Magny"
                 },
                 {
                     "posicion": 13,
-                    "nombre": "Neil Magny"
+                    "nombre": "Kevin Holland"
                 },
                 {
                     "posicion": 14,
@@ -390,11 +390,11 @@
                 },
                 {
                     "posicion": 13,
-                    "nombre": "Anthony Hernandez"
+                    "nombre": "Chris Curtis"
                 },
                 {
                     "posicion": 14,
-                    "nombre": "Chris Curtis"
+                    "nombre": "Anthony Hernandez"
                 },
                 {
                     "posicion": 15,
@@ -542,64 +542,64 @@
             "peleadores": [
                 {
                     "posicion": 1,
-                    "nombre": "Carla Esparza"
-                },
-                {
-                    "posicion": 2,
                     "nombre": "Yan Xiaonan"
                 },
                 {
-                    "posicion": 3,
+                    "posicion": 2,
                     "nombre": "Tatiana Suarez"
                 },
                 {
-                    "posicion": 4,
+                    "posicion": 3,
                     "nombre": "Amanda Lemos"
                 },
                 {
-                    "posicion": 5,
+                    "posicion": 4,
                     "nombre": "Jéssica Andrade"
                 },
                 {
-                    "posicion": 6,
+                    "posicion": 5,
                     "nombre": "Virna Jandiroba"
                 },
                 {
-                    "posicion": 7,
+                    "posicion": 6,
                     "nombre": "Marina Rodriguez"
                 },
                 {
-                    "posicion": 8,
+                    "posicion": 7,
                     "nombre": "Mackenzie Dern"
                 },
                 {
-                    "posicion": 9,
+                    "posicion": 8,
                     "nombre": "amanda Ribas"
                 },
                 {
-                    "posicion": 10,
+                    "posicion": 9,
                     "nombre": "Luana Pinheiro"
                 },
                 {
-                    "posicion": 11,
+                    "posicion": 10,
                     "nombre": "Loopy Godinez"	
                     
                 },
                 {
-                    "posicion": 12,
+                    "posicion": 11,
                     "nombre": "Tabatha Ricci"
                 },
                 {
-                    "posicion": 13,
+                    "posicion": 12,
                     "nombre": "Angela Hill"
                 },
                 {
-                    "posicion": 14,
+                    "posicion": 13,
                     "nombre": "Karolina Kowalkiewicz"
                 },
                 {
-                    "posicion": 15,
+                    "posicion": 14,
                     "nombre": "Michelle Waterson-Gomez"
+                },
+                {
+                    "posicion": 15,
+                    "nombre": "Gillian Robertson"
                 }
             ]
         },
@@ -666,13 +666,13 @@
                 },
                 {
                     "posicion": 15,
-                    "nombre": "Joanne Wood"
+                    "nombre": "Jasmine Jasudavicius"
                 }
             ]
         },
         {
             "nombre": "Peso Gallo Femenino",
-            "campeon": "",
+            "campeon": "Raquel Pennington",
             "peleadores": [
                 {
                     "posicion": 1,
@@ -680,31 +680,31 @@
                 },
                 {
                     "posicion": 2,
-                    "nombre": "Raquel Pennington"
-                },
-                {
-                    "posicion": 3,
                     "nombre": "Mayra Bueno Silva"
                 },
                 {
-                    "posicion": 4,
+                    "posicion": 3,
                     "nombre": "Ketlen Vieira"
                 },
                 {
-                    "posicion": 5,
+                    "posicion": 4,
                     "nombre": "Irene Aldana"
                 },
                 {
-                    "posicion": 6,
+                    "posicion": 5,
                     "nombre": "Holly Holm"
                 },
                 {
-                    "posicion": 7,
+                    "posicion": 6,
                     "nombre": "Pannie Kianzad"
                 },
                 {
-                    "posicion": 8,
+                    "posicion": 7,
                     "nombre": "Yana Santos"
+                },
+                {
+                    "posicion": 8,
+                    "nombre": "Miesha Tate"
                 },
                 {
                     "posicion": 9,
@@ -716,24 +716,24 @@
                 },
                 {
                     "posicion": 11,
-                    "nombre": "Miesha Tate"	
+                    "nombre": "Norma Dumont"	
                     
                 },
                 {
                     "posicion": 12,
-                    "nombre": "Norma Dumont"
-                },
-                {
-                    "posicion": 13,
                     "nombre": "Julia Avila"
                 },
                 {
-                    "posicion": 14,
+                    "posicion": 13,
                     "nombre": "Josiane Nunes"
                 },
                 {
-                    "posicion": 15,
+                    "posicion": 14,
                     "nombre": "Chelsea Chandler"
+                },
+                {
+                    "posicion": 15,
+                    "nombre": "Melissa Dixon"
                 }
             ]
         }

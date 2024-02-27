@@ -6,15 +6,15 @@
             "peleadores": [
                 {
                     "posicion": 1,
-                    "nombre": "Brandon Moreno"
+                    "nombre": "Brandon Royval"
                 },
                 {
                     "posicion": 2,
-                    "nombre": "Amir Albazi"
+                    "nombre": "Brandon Moreno"
                 },
                 {
                     "posicion": 3,
-                    "nombre": "Brandon Royval"
+                    "nombre": "Amir Albazi"
                 },
                 {
                     "posicion": 4,
@@ -73,27 +73,27 @@
             "peleadores": [
                 {
                     "posicion": 1,
-                    "nombre": "Aljamain Sterling"
-                },
-                {
-                    "posicion": 2,
                     "nombre": "Merab Dvalishvili"
                 },
                 {
-                    "posicion": 3,
-                    "nombre": "Henry Cejudo"
+                    "posicion": 2,
+                    "nombre": "Aljamain Sterling"
                 },
                 {
-                    "posicion": 4,
+                    "posicion": 3,
                     "nombre": "Cory Sandhagen"
                 },
                 {
-                    "posicion": 5,
+                    "posicion": 4,
                     "nombre": "Petr Yan"
                 },
                 {
-                    "posicion": 6,
+                    "posicion": 5,
                     "nombre": "Marlon Vera"
+                },
+                {
+                    "posicion": 6,
+                    "nombre": "Henry Cejudo"
                 },
                 {
                     "posicion": 7,
@@ -109,16 +109,16 @@
                 },
                 {
                     "posicion": 10,
-                    "nombre": "Dominick Cruz"
+                    "nombre": "Jonathan Martinez"
                 },
                 {
                     "posicion": 11,
-                    "nombre": "Pedro Munhoz"	
+                    "nombre": "Dominick Cruz"	
                     
                 },
                 {
                     "posicion": 12,
-                    "nombre": "Jonathan Martinez"
+                    "nombre": "Pedro Munhoz"
                 },
                 {
                     "posicion": 13,
@@ -136,23 +136,23 @@
         },
         {
             "nombre": "Peso Pluma ",
-            "campeon": "Alexander Volkanovski",
+            "campeon": "Ilia Topuria",
             "peleadores": [
                 {
                     "posicion": 1,
-                    "nombre": "Max Holloway"
+                    "nombre": "Alexander Volkanovski"
                 },
                 {
                     "posicion": 2,
-                    "nombre": "Yair Rodriguez"
+                    "nombre": "Max Holloway"
                 },
                 {
                     "posicion": 3,
-                    "nombre": "Ilia Topuria"
+                    "nombre": "Brian Ortega"
                 },
                 {
                     "posicion": 4,
-                    "nombre": "Brian Ortega"
+                    "nombre": "Yair Rodriguez"
                 },
                 {
                     "posicion": 5,
@@ -185,11 +185,11 @@
                 },
                 {
                     "posicion": 12,
-                    "nombre": "Sodiq Yusuff"
+                    "nombre": "Dan Ige"
                 },
                 {
                     "posicion": 13,
-                    "nombre": "Dan Ige"
+                    "nombre": "Sodiq Yusuff"
                 },
                 {
                     "posicion": 14,
@@ -294,23 +294,23 @@
                 },
                 {
                     "posicion": 6,
-                    "nombre": "Sean Brady"
+                    "nombre": "Ian Machado Garry"
                 },
                 {
                     "posicion": 7,
-                    "nombre": "Stephen Thompson"
+                    "nombre": "Sean Brady"
                 },
                 {
                     "posicion": 8,
-                    "nombre": "Geoff Neal"
+                    "nombre": "Stephen Thompson"
                 },
                 {
                     "posicion": 9,
-                    "nombre": "Vicente Luque"
+                    "nombre": "Geoff Neal"
                 },
                 {
                     "posicion": 10,
-                    "nombre": "Ian Machado Garry"
+                    "nombre": "Vicente Luque"
                 },
                 {
                     "posicion": 11,
@@ -361,28 +361,27 @@
                 },
                 {
                     "posicion": 6,
-                    "nombre": "Paulo Costa"
-                },
-                {
-                    "posicion": 7,
                     "nombre": "Brendan Allen"
                 },
                 {
+                    "posicion": 7,
+                    "nombre": "Paulo Costa"
+                },
+                {
                     "posicion": 8,
-                    "nombre": "Roman dolidze"
+                    "nombre": "Nassourdine Imavov"
                 },
                 {
                     "posicion": 9,
-                    "nombre": "Khamzat Chimaev"
-                },
-                {
-                    "posicion": 10,
                     "nombre": "Jack Hermansson"
                 },
                 {
+                    "posicion": 10,
+                    "nombre": "Roman dolidze"
+                },
+                {
                     "posicion": 11,
-                    "nombre": "Nassourdine Imavov"	
-                    
+                    "nombre": "Khamzat Chimaev"
                 },
                 {
                     "posicion": 12,
@@ -390,11 +389,11 @@
                 },
                 {
                     "posicion": 13,
-                    "nombre": "Chris Curtis"
+                    "nombre": "Anthony Hernandez"
                 },
                 {
                     "posicion": 14,
-                    "nombre": "Anthony Hernandez"
+                    "nombre": "Chris Curtis"
                 },
                 {
                     "posicion": 15,
@@ -503,19 +502,19 @@
                 },
                 {
                     "posicion": 8,
-                    "nombre": "Tai Tuivasa"
-                },
-                {
-                    "posicion": 9,
                     "nombre": "Serghei Spivac"
                 },
                 {
+                    "posicion": 9,
+                    "nombre": "Tai Tuivasa"
+                },
+                {
                     "posicion": 10,
-                    "nombre": "Derrick Lewis"
+                    "nombre": "Marcin Tybura"
                 },
                 {
                     "posicion": 11,
-                    "nombre": "Marcin Tybura"	
+                    "nombre": "Derrick Lewis"	
                     
                 },
                 {
@@ -528,11 +527,11 @@
                 },
                 {
                     "posicion": 14,
-                    "nombre": "Rodrigo Nascimento"
+                    "nombre": "Marcos Rogerio De Lima"
                 },
                 {
                     "posicion": 15,
-                    "nombre": "Marcos Rogerio De Lima"
+                    "nombre": "Rodrigo Nascimento"
                 }
             ]
         },
@@ -633,7 +632,7 @@
                 },
                 {
                     "posicion": 7,
-                    "nombre": "Viviane Araújo"
+                    "nombre": "Natalia Silva"
                 },
                 {
                     "posicion": 8,
@@ -641,7 +640,7 @@
                 },
                 {
                     "posicion": 9,
-                    "nombre": "Natalia Silva"
+                    "nombre": "Viviane Araújo"
                 },
                 {
                     "posicion": 10,
@@ -662,11 +661,11 @@
                 },
                 {
                     "posicion": 14,
-                    "nombre": "Andrea Lee"
+                    "nombre": "Jasmine Jasudavicius"
                 },
                 {
                     "posicion": 15,
-                    "nombre": "Jasmine Jasudavicius"
+                    "nombre": "Andrea Lee"
                 }
             ]
         },

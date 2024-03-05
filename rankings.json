@@ -30,32 +30,32 @@
                 },
                 {
                     "posicion": 7,
-                    "nombre": "Alex Perez"
-                },
-                {
-                    "posicion": 8,
                     "nombre": "Muhammad Mokaev"
                 },
                 {
-                    "posicion": 9,
-                    "nombre": "Matt Schnell"
+                    "posicion": 8,
+                    "nombre": "Alex Perez"
                 },
                 {
-                    "posicion": 10,
+                    "posicion": 9,
                     "nombre": "Tim Elliott"
                 },
                 {
+                    "posicion": 10,
+                    "nombre": "Steve Erceg"
+                },
+                {
                     "posicion": 11,
-                    "nombre": "Tagir Ulanbekov"	
+                    "nombre": "Matt Schnell"	
                     
                 },
                 {
                     "posicion": 12,
-                    "nombre": "Steve Erceg"
+                    "nombre": "Tagir Ulanbekov"
                 },
                 {
                     "posicion": 13,
-                    "nombre": "Sumudaerji"
+                    "nombre": "Tatsuro Taira"
                 },
                 {
                     "posicion": 14,
@@ -63,7 +63,7 @@
                 },
                 {
                     "posicion": 15,
-                    "nombre": "Tatsuro Taira"
+                    "nombre": "Sumudaerji"
                 }
             ]
         },
@@ -109,20 +109,20 @@
                 },
                 {
                     "posicion": 10,
-                    "nombre": "Jonathan Martinez"
+                    "nombre": "Umar Nurmagomedov"
                 },
                 {
                     "posicion": 11,
+                    "nombre": "Jonathan Martinez"
+                },
+                {
+                    "posicion": 12,
                     "nombre": "Dominick Cruz"	
                     
                 },
                 {
-                    "posicion": 12,
-                    "nombre": "Pedro Munhoz"
-                },
-                {
                     "posicion": 13,
-                    "nombre": "Umar Nurmagomedov"
+                    "nombre": "Pedro Munhoz"
                 },
                 {
                     "posicion": 14,

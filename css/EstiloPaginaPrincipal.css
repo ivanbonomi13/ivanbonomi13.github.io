@@ -1,3 +1,9 @@
+@font-face {
+    font-family: 'Sternbach';
+    src: url(/Fonts/Sternbach-Bold.otf);
+    font-size: 10px;
+}
+
 body {
     margin: 0;
     padding: 0;
@@ -22,6 +28,7 @@ body {
     transform: translate(-50%, -50%);
     color: #000;
     text-align: center;
+    font-family: 'Sternbach';
 }
 
 .texto p {

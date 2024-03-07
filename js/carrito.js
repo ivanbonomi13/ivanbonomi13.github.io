@@ -60,7 +60,7 @@ document.addEventListener("DOMContentLoaded", function () {
         if (Notification.permission === "granted") {
             var options = {
                 body: mensaje,
-                icon: "imagenes/LogoUFC.png"  // Reemplaza esto con la ruta de tu propio icono
+                icon: "../imagenes/LogoUFC.png"  // Reemplaza esto con la ruta de tu propio icono
             };
 
             var notification = new Notification("¡Producto agregado al carrito!", options);

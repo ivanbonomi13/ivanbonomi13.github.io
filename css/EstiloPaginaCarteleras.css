@@ -35,12 +35,13 @@ body {
 }
 
 .eventosNumerados img {
-    width: 250px;
+    width: auto;
+    max-width: 250px;
+    height: 150px;
 }
 
 .eventosNumerados.blurred {
     filter: blur(5px);
-    /* Ajusta el valor según desees */
 }
 
 .eventosNumerados::before {

@@ -37,10 +37,10 @@ document.addEventListener('DOMContentLoaded', function () {
 
         element.addEventListener('mouseout', function () {
             element.style.transform = `
-              perspective(500px)
-              scale(1)
-              rotateX(0)
-              rotateY(0)`;
+            perspective(500px)
+            scale(1)
+            rotateX(0)
+            rotateY(0)`;
         });
     });
 });

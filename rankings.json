@@ -59,11 +59,11 @@
                 },
                 {
                     "posicion": 14,
-                    "nombre": "David Dvorak"
+                    "nombre": "Sumudaerji"
                 },
                 {
                     "posicion": 15,
-                    "nombre": "Sumudaerji"
+                    "nombre": "David Dvorak"
                 }
             ]
         },
@@ -113,24 +113,24 @@
                 },
                 {
                     "posicion": 11,
-                    "nombre": "Jonathan Martinez"
+                    "nombre": "Dominick Cruz"
                 },
                 {
                     "posicion": 12,
-                    "nombre": "Dominick Cruz"	
+                    "nombre": "Kyler Phillips"	
                     
                 },
                 {
                     "posicion": 13,
-                    "nombre": "Pedro Munhoz"
-                },
-                {
-                    "posicion": 14,
                     "nombre": "Mario Bautista"
                 },
                 {
+                    "posicion": 14,
+                    "nombre": "Jonathan Martinez"
+                },
+                {
                     "posicion": 15,
-                    "nombre": "Ricky Simon"
+                    "nombre": "Pedro Munhoz"
                 }
             ]
         },
@@ -223,11 +223,11 @@
                 },
                 {
                     "posicion": 5,
-                    "nombre": "Michael Chandler"
+                    "nombre": "Mateusz Gamrot"
                 },
                 {
                     "posicion": 6,
-                    "nombre": "Mateusz Gamrot"
+                    "nombre": "Michael Chandler"
                 },
                 {
                     "posicion": 7,
@@ -239,20 +239,20 @@
                 },
                 {
                     "posicion": 9,
-                    "nombre": "Jalin Turner"
-                },
-                {
-                    "posicion": 10,
                     "nombre": "Dan Hooker"
                 },
                 {
+                    "posicion": 10,
+                    "nombre": "Jalin Turner"
+                },
+                {
                     "posicion": 11,
-                    "nombre": "Rafael Dos Anjos"	
+                    "nombre": "Benoit Saint Denis"	
                     
                 },
                 {
                     "posicion": 12,
-                    "nombre": "Benoit Saint Denis"
+                    "nombre": "Rafael Dos Anjos"
                 },
                 {
                     "posicion": 13,
@@ -286,52 +286,52 @@
                 },
                 {
                     "posicion": 4,
-                    "nombre": "Gilbert Burns"
-                },
-                {
-                    "posicion": 5,
                     "nombre": "Colby Covington"
                 },
                 {
-                    "posicion": 6,
-                    "nombre": "Ian Machado Garry"
-                },
-                {
-                    "posicion": 7,
-                    "nombre": "Sean Brady"
-                },
-                {
-                    "posicion": 8,
-                    "nombre": "Stephen Thompson"
-                },
-                {
-                    "posicion": 9,
-                    "nombre": "Geoff Neal"
-                },
-                {
-                    "posicion": 10,
-                    "nombre": "Vicente Luque"
-                },
-                {
-                    "posicion": 11,
+                    "posicion": 5,
                     "nombre": "Jack Della Maddalena"	
                     
                 },
+                {
+                    "posicion": 6,
+                    "nombre": "Gilbert Burns"
+                },
+                {
+                    "posicion": 7,
+                    "nombre": "Ian Machado Garry"
+                },
+                {
+                    "posicion": 8,
+                    "nombre": "Sean Brady"
+                },
+                {
+                    "posicion": 9,
+                    "nombre": "Stephen Thompson"
+                },
+                {
+                    "posicion": 10,
+                    "nombre": "Geoff Neal"
+                },
+                {
+                    "posicion": 11,
+                    "nombre": "Vicente Luque"
+                },                
                 {
                     "posicion": 12,
                     "nombre": "Neil Magny"
                 },
                 {
                     "posicion": 13,
-                    "nombre": "Kevin Holland"
+                    "nombre": "Michael Page"
                 },
                 {
                     "posicion": 14,
-                    "nombre": "Michael Chiesa"
+                    "nombre": "Kevin Holland"
                 },
                 {
                     "posicion": 15,
-                    "nombre": "Rinat Fakhretdinov"
+                    "nombre": "Michael Chiesa"
                 }
             ]
         },
@@ -385,11 +385,11 @@
                 },
                 {
                     "posicion": 12,
-                    "nombre": "Paul Craig"
+                    "nombre": "Anthony Hernandez"
                 },
                 {
                     "posicion": 13,
-                    "nombre": "Anthony Hernandez"
+                    "nombre": "Paul Craig"
                 },
                 {
                     "posicion": 14,
@@ -514,12 +514,12 @@
                 },
                 {
                     "posicion": 11,
-                    "nombre": "Derrick Lewis"	
+                    "nombre": "Jairzinho Rozenstruik"	
                     
                 },
                 {
                     "posicion": 12,
-                    "nombre": "Jairzinho Rozenstruik"
+                    "nombre": "Derrick Lewis"
                 },
                 {
                     "posicion": 13,
@@ -620,7 +620,7 @@
                 },
                 {
                     "posicion": 4,
-                    "nombre": "Katlyn Chookagian"
+                    "nombre": "Maycee Barber"
                 },
                 {
                     "posicion": 5,
@@ -628,7 +628,7 @@
                 },
                 {
                     "posicion": 6,
-                    "nombre": "Maycee Barber"
+                    "nombre": "Katlyn Cerminara"
                 },
                 {
                     "posicion": 7,

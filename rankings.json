@@ -1,7 +1,73 @@
 {
     "categorias": [
         {
-            "nombre": "Peso Mosca",
+            "nombre": "Men's Pound-for-Pound Top Rank",
+            "campeon": "Islam Makhachev",
+            "peleadores": [
+                {
+                    "posicion": 1,
+                    "nombre": "Islam Makhachev"
+                },
+                {
+                    "posicion": 2,
+                    "nombre": "Jon Jones"
+                },
+                {
+                    "posicion": 3,
+                    "nombre": "Leon Edwards"
+                },
+                {
+                    "posicion": 4,
+                    "nombre": "Alex Pereira"
+                },
+                {
+                    "posicion": 5,
+                    "nombre": "Ilia Topuria"
+                },
+                {
+                    "posicion": 6,
+                    "nombre": "Sean O'Malley"
+                },
+                {
+                    "posicion": 7,
+                    "nombre": "Charles Oliveira"
+                },
+                {
+                    "posicion": 8,
+                    "nombre": "Alexander Volkanovski"
+                },
+                {
+                    "posicion": 9,
+                    "nombre": "Dricus Du Plessis"
+                },
+                {
+                    "posicion": 10,
+                    "nombre": "Alexandre Pantoja"
+                },
+                {
+                    "posicion": 11,
+                    "nombre": "Israel Adesanya"
+                },
+                {
+                    "posicion": 12,
+                    "nombre": "Tom Aspinall"
+                },
+                {
+                    "posicion": 13,
+                    "nombre": "Sean Strickland"
+                },
+                {
+                    "posicion": 14,
+                    "nombre": "Max Holloway"
+                },
+                {
+                    "posicion": 15,
+                    "nombre": "Aljamain Sterling"
+                }
+            ]
+        },
+        {
+            "nombre": "Peso mosca",
             "campeon": "Alexandre Pantoja",
             "peleadores": [
                 {
@@ -46,8 +112,7 @@
                 },
                 {
                     "posicion": 11,
-                    "nombre": "Matt Schnell"	
-                    
+                    "nombre": "Matt Schnell"
                 },
                 {
                     "posicion": 12,
@@ -68,7 +133,7 @@
             ]
         },
         {
-            "nombre": "Peso Gallo",
+            "nombre": "Peso gallo",
             "campeon": "Sean O'Malley",
             "peleadores": [
                 {
@@ -117,8 +182,7 @@
                 },
                 {
                     "posicion": 12,
-                    "nombre": "Kyler Phillips"	
-                    
+                    "nombre": "Kyler Phillips"
                 },
                 {
                     "posicion": 13,
@@ -135,7 +199,7 @@
             ]
         },
         {
-            "nombre": "Peso Pluma ",
+            "nombre": "Peso pluma",
             "campeon": "Ilia Topuria",
             "peleadores": [
                 {
@@ -180,8 +244,7 @@
                 },
                 {
                     "posicion": 11,
-                    "nombre": "Edson Barboza"	
-                    
+                    "nombre": "Edson Barboza"
                 },
                 {
                     "posicion": 12,
@@ -202,7 +265,7 @@
             ]
         },
         {
-            "nombre": "Peso Ligero",
+            "nombre": "Ligero",
             "campeon": "Islam Makhachev",
             "peleadores": [
                 {
@@ -247,8 +310,7 @@
                 },
                 {
                     "posicion": 11,
-                    "nombre": "Benoit Saint Denis"	
-                    
+                    "nombre": "Beno\u00eet Saint Denis"
                 },
                 {
                     "posicion": 12,
@@ -269,7 +331,7 @@
             ]
         },
         {
-            "nombre": "Peso Welter",
+            "nombre": "Peso welter",
             "campeon": "Leon Edwards",
             "peleadores": [
                 {
@@ -290,8 +352,7 @@
                 },
                 {
                     "posicion": 5,
-                    "nombre": "Jack Della Maddalena"	
-                    
+                    "nombre": "Jack Della Maddalena"
                 },
                 {
                     "posicion": 6,
@@ -316,7 +377,7 @@
                 {
                     "posicion": 11,
                     "nombre": "Vicente Luque"
-                },                
+                },
                 {
                     "posicion": 12,
                     "nombre": "Neil Magny"
@@ -336,7 +397,7 @@
             ]
         },
         {
-            "nombre": "Peso Medio",
+            "nombre": "Peso medio",
             "campeon": "Dricus Du Plessis",
             "peleadores": [
                 {
@@ -357,7 +418,7 @@
                 },
                 {
                     "posicion": 5,
-                    "nombre": "Martin Vettori"
+                    "nombre": "Marvin Vettori"
                 },
                 {
                     "posicion": 6,
@@ -376,7 +437,7 @@
                     "nombre": "Jack Hermansson"
                 },
                 {
-                    "posicion": 10,
+                    "posicion": 9,
                     "nombre": "Roman Dolidze"
                 },
                 {
@@ -402,16 +463,16 @@
             ]
         },
         {
-            "nombre": "Peso Semipesado",
+            "nombre": "Peso semipesado",
             "campeon": "Alex Pereira",
             "peleadores": [
                 {
                     "posicion": 1,
-                    "nombre": "Jamahall Hill"
+                    "nombre": "Jamahal Hill"
                 },
                 {
                     "posicion": 2,
-                    "nombre": "Jiri Prochazka"
+                    "nombre": "Ji\u0159\u00ed Proch\u00e1zka"
                 },
                 {
                     "posicion": 3,
@@ -419,11 +480,11 @@
                 },
                 {
                     "posicion": 4,
-                    "nombre": "Jan Błachowicz"
+                    "nombre": "Jan B\u0142achowicz"
                 },
                 {
                     "posicion": 5,
-                    "nombre": "Aleksandar Rakić"
+                    "nombre": "Aleksandar Raki\u0107"
                 },
                 {
                     "posicion": 6,
@@ -447,8 +508,7 @@
                 },
                 {
                     "posicion": 11,
-                    "nombre": "Ryan Spann"	
-                    
+                    "nombre": "Ryan Spann"
                 },
                 {
                     "posicion": 12,
@@ -464,12 +524,12 @@
                 },
                 {
                     "posicion": 15,
-                    "nombre": "Dustin Jacoby"
+                    "nombre": "Vitor Petrino"
                 }
             ]
         },
         {
-            "nombre": "Peso Pesado",
+            "nombre": "De peso pesado",
             "campeon": "Jon Jones",
             "peleadores": [
                 {
@@ -490,7 +550,7 @@
                 },
                 {
                     "posicion": 5,
-                    "nombre": "Curtys Blaydes"
+                    "nombre": "Curtis Blaydes"
                 },
                 {
                     "posicion": 6,
@@ -514,8 +574,7 @@
                 },
                 {
                     "posicion": 11,
-                    "nombre": "Jairzinho Rozenstruik"	
-                    
+                    "nombre": "Jairzinho Rozenstruik"
                 },
                 {
                     "posicion": 12,
@@ -527,7 +586,7 @@
                 },
                 {
                     "posicion": 14,
-                    "nombre": "Marcos Rogerio De Lima"
+                    "nombre": "Marcos Rogerio de Lima"
                 },
                 {
                     "posicion": 15,
@@ -536,7 +595,73 @@
             ]
         },
         {
-            "nombre": "Peso Paja Femenino",
+            "nombre": "Women's Pound-for-Pound Top Rank",
+            "campeon": "Alexa Grasso",
+            "peleadores": [
+                {
+                    "posicion": 1,
+                    "nombre": "Alexa Grasso"
+                },
+                {
+                    "posicion": 2,
+                    "nombre": "Zhang Weili"
+                },
+                {
+                    "posicion": 3,
+                    "nombre": "Valentina Shevchenko"
+                },
+                {
+                    "posicion": 4,
+                    "nombre": "Erin Blanchfield"
+                },
+                {
+                    "posicion": 5,
+                    "nombre": "Julianna Pe\u00f1a"
+                },
+                {
+                    "posicion": 6,
+                    "nombre": "Manon Fiorot"
+                },
+                {
+                    "posicion": 7,
+                    "nombre": "Raquel Pennington"
+                },
+                {
+                    "posicion": 8,
+                    "nombre": "Rose Namajunas"
+                },
+                {
+                    "posicion": 9,
+                    "nombre": "Tatiana Suarez"
+                },
+                {
+                    "posicion": 10,
+                    "nombre": "Yan Xiaonan"
+                },
+                {
+                    "posicion": 11,
+                    "nombre": "J\u00e9ssica Andrade"
+                },
+                {
+                    "posicion": 12,
+                    "nombre": "Amanda Lemos"
+                },
+                {
+                    "posicion": 13,
+                    "nombre": "Ketlen Vieira"
+                },
+                {
+                    "posicion": 14,
+                    "nombre": "Irene Aldana"
+                },
+                {
+                    "posicion": 15,
+                    "nombre": "Maycee Barber"
+                }
+            ]
+        },
+        {
+            "nombre": "Peso de la mujer",
             "campeon": "Zhang Weili",
             "peleadores": [
                 {
@@ -553,7 +678,7 @@
                 },
                 {
                     "posicion": 4,
-                    "nombre": "Jéssica Andrade"
+                    "nombre": "J\u00e9ssica Andrade"
                 },
                 {
                     "posicion": 5,
@@ -565,11 +690,11 @@
                 },
                 {
                     "posicion": 7,
-                    "nombre": "Mackenzie Dern"
+                    "nombre": "Amanda Ribas"
                 },
                 {
                     "posicion": 8,
-                    "nombre": "Amanda Ribas"
+                    "nombre": "Mackenzie Dern"
                 },
                 {
                     "posicion": 9,
@@ -577,8 +702,7 @@
                 },
                 {
                     "posicion": 10,
-                    "nombre": "Loopy Godinez"	
-                    
+                    "nombre": "Loopy Godinez"
                 },
                 {
                     "posicion": 11,
@@ -603,7 +727,7 @@
             ]
         },
         {
-            "nombre": "Peso Mosca Femenino",
+            "nombre": "Women's Flyweight",
             "campeon": "Alexa Grasso",
             "peleadores": [
                 {
@@ -624,7 +748,7 @@
                 },
                 {
                     "posicion": 5,
-                    "nombre": "Jéssica Andrade"
+                    "nombre": "J\u00e9ssica Andrade"
                 },
                 {
                     "posicion": 6,
@@ -640,7 +764,7 @@
                 },
                 {
                     "posicion": 9,
-                    "nombre": "Viviane Araújo"
+                    "nombre": "Viviane Ara\u00fajo"
                 },
                 {
                     "posicion": 10,
@@ -648,8 +772,7 @@
                 },
                 {
                     "posicion": 11,
-                    "nombre": "Ariane Lipski"	
-                    
+                    "nombre": "Ariane Lipski"
                 },
                 {
                     "posicion": 12,
@@ -661,21 +784,21 @@
                 },
                 {
                     "posicion": 14,
-                    "nombre": "Jasmine Jasudavicius"
+                    "nombre": "Miranda Maverick"
                 },
                 {
                     "posicion": 15,
-                    "nombre": "Andrea Lee"
+                    "nombre": "Jasmine Jasudavicius"
                 }
             ]
         },
         {
-            "nombre": "Peso Gallo Femenino",
+            "nombre": "Gallo de las mujeres",
             "campeon": "Raquel Pennington",
             "peleadores": [
                 {
                     "posicion": 1,
-                    "nombre": "Julianna Peña"
+                    "nombre": "Julianna Pe\u00f1a"
                 },
                 {
                     "posicion": 2,
@@ -715,8 +838,7 @@
                 },
                 {
                     "posicion": 11,
-                    "nombre": "Norma Dumont"	
-                    
+                    "nombre": "Norma Dumont"
                 },
                 {
                     "posicion": 12,
@@ -732,7 +854,7 @@
                 },
                 {
                     "posicion": 15,
-                    "nombre": "Melissa Dixon"
+                    "nombre": "Melissa Mullins"
                 }
             ]
         }

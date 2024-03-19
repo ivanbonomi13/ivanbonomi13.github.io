@@ -1,7 +1,7 @@
 {
     "categorias": [
         {
-            "nombre": "Men's Pound-for-Pound Top Rank",
+            "nombre": "Libra por Libra Masculino",
             "campeon": "Islam Makhachev",
             "peleadores": [
                 {
@@ -67,7 +67,7 @@
             ]
         },
         {
-            "nombre": "Peso mosca",
+            "nombre": "Peso Mosca",
             "campeon": "Alexandre Pantoja",
             "peleadores": [
                 {
@@ -133,7 +133,7 @@
             ]
         },
         {
-            "nombre": "Peso gallo",
+            "nombre": "Peso Gallo",
             "campeon": "Sean O'Malley",
             "peleadores": [
                 {
@@ -178,11 +178,11 @@
                 },
                 {
                     "posicion": 11,
-                    "nombre": "Dominick Cruz"
+                    "nombre": "Kyler Phillips"
                 },
                 {
                     "posicion": 12,
-                    "nombre": "Kyler Phillips"
+                    "nombre": "Dominick Cruz"
                 },
                 {
                     "posicion": 13,
@@ -199,7 +199,7 @@
             ]
         },
         {
-            "nombre": "Peso pluma",
+            "nombre": "Peso Pluma",
             "campeon": "Ilia Topuria",
             "peleadores": [
                 {
@@ -265,7 +265,7 @@
             ]
         },
         {
-            "nombre": "Ligero",
+            "nombre": "Peso Ligero",
             "campeon": "Islam Makhachev",
             "peleadores": [
                 {
@@ -331,7 +331,7 @@
             ]
         },
         {
-            "nombre": "Peso welter",
+            "nombre": "Peso W\u00e9lter",
             "campeon": "Leon Edwards",
             "peleadores": [
                 {
@@ -397,7 +397,7 @@
             ]
         },
         {
-            "nombre": "Peso medio",
+            "nombre": "Peso Medio",
             "campeon": "Dricus Du Plessis",
             "peleadores": [
                 {
@@ -434,11 +434,11 @@
                 },
                 {
                     "posicion": 9,
-                    "nombre": "Jack Hermansson"
+                    "nombre": "Roman Dolidze"
                 },
                 {
                     "posicion": 9,
-                    "nombre": "Roman Dolidze"
+                    "nombre": "Jack Hermansson"
                 },
                 {
                     "posicion": 11,
@@ -463,7 +463,7 @@
             ]
         },
         {
-            "nombre": "Peso semipesado",
+            "nombre": "Peso Semipesado",
             "campeon": "Alex Pereira",
             "peleadores": [
                 {
@@ -529,7 +529,7 @@
             ]
         },
         {
-            "nombre": "De peso pesado",
+            "nombre": "Peso Pesado",
             "campeon": "Jon Jones",
             "peleadores": [
                 {
@@ -562,15 +562,15 @@
                 },
                 {
                     "posicion": 8,
+                    "nombre": "Marcin Tybura"
+                },
+                {
+                    "posicion": 8,
                     "nombre": "Serghei Spivac"
                 },
                 {
-                    "posicion": 9,
-                    "nombre": "Tai Tuivasa"
-                },
-                {
                     "posicion": 10,
-                    "nombre": "Marcin Tybura"
+                    "nombre": "Tai Tuivasa"
                 },
                 {
                     "posicion": 11,
@@ -595,7 +595,7 @@
             ]
         },
         {
-            "nombre": "Women's Pound-for-Pound Top Rank",
+            "nombre": "Libra por Libra Femenino",
             "campeon": "Alexa Grasso",
             "peleadores": [
                 {
@@ -661,7 +661,7 @@
             ]
         },
         {
-            "nombre": "Peso de la mujer",
+            "nombre": "Peso Paja Femenino",
             "campeon": "Zhang Weili",
             "peleadores": [
                 {
@@ -727,7 +727,7 @@
             ]
         },
         {
-            "nombre": "Women's Flyweight",
+            "nombre": "Peso Mosca Femenino",
             "campeon": "Alexa Grasso",
             "peleadores": [
                 {
@@ -793,7 +793,7 @@
             ]
         },
         {
-            "nombre": "Gallo de las mujeres",
+            "nombre": "Peso Gallo Femenino",
             "campeon": "Raquel Pennington",
             "peleadores": [
                 {
@@ -802,11 +802,11 @@
                 },
                 {
                     "posicion": 2,
-                    "nombre": "Mayra Bueno Silva"
+                    "nombre": "Ketlen Vieira"
                 },
                 {
-                    "posicion": 3,
-                    "nombre": "Ketlen Vieira"
+                    "posicion": 2,
+                    "nombre": "Mayra Bueno Silva"
                 },
                 {
                     "posicion": 4,
@@ -818,23 +818,23 @@
                 },
                 {
                     "posicion": 6,
-                    "nombre": "Pannie Kianzad"
+                    "nombre": "Macy Chiasson"
                 },
                 {
                     "posicion": 7,
-                    "nombre": "Yana Santos"
-                },
-                {
-                    "posicion": 8,
                     "nombre": "Miesha Tate"
                 },
                 {
-                    "posicion": 9,
+                    "posicion": 8,
                     "nombre": "Karol Rosa"
                 },
                 {
+                    "posicion": 9,
+                    "nombre": "Pannie Kianzad"
+                },
+                {
                     "posicion": 10,
-                    "nombre": "Macy Chiasson"
+                    "nombre": "Yana Santos"
                 },
                 {
                     "posicion": 11,
@@ -846,11 +846,11 @@
                 },
                 {
                     "posicion": 13,
-                    "nombre": "Josiane Nunes"
+                    "nombre": "Chelsea Chandler"
                 },
                 {
                     "posicion": 14,
-                    "nombre": "Chelsea Chandler"
+                    "nombre": "Josiane Nunes"
                 },
                 {
                     "posicion": 15,

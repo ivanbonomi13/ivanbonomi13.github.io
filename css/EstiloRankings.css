@@ -1,7 +1,9 @@
 body {
+    font-family: "Anton", sans-serif;
+    font-weight: 0;
+    font-style: normal;
     margin: 0;
     padding: 0;
-    font-family: 'Helvetica', sans-serif;
     background-color: #FFF;
     z-index: -2;
 }
@@ -33,11 +35,17 @@ body {
 .tabla-rankings td {
     text-align: left;
     padding: 10px;
+    font-weight: lighter;
 }
 
 .tabla-rankings a {
     text-decoration: none;
     color: #000;
+}
+
+.tabla-rankings td a {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #585b53;
 }
 
 .tabla-rankings img {
@@ -66,18 +74,18 @@ body {
     font-size: 12px;
 }
 
-.posicion:hover{
+.posicion:hover {
     background-color: #e3e3e3;
 }
 
 h5 {
     font-size: 24px;
-    font-weight: bold;
     margin: 10px 0;
 }
 
 h6 {
-    font-size: 15px;
+    font-size: 12px;
+    font-weight: lighter;
     margin-top: 10px;
     color: #abadb1;
 }

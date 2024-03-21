@@ -30,7 +30,7 @@ function mostrarPeleadores() {
 
             const imgAvatar = document.createElement('img');
             imgAvatar.src = `imagenes/${peleador.nombre}.jpg`; // Reemplaza con la ruta correcta de la imagen
-            imgAvatar.alt = peleador.nombre;
+            // imgAvatar.alt = peleador.nombre;
 
             const h5Peso = document.createElement('h5');
             h5Peso.textContent = `Peso ${peleador.peso}`;
@@ -79,7 +79,7 @@ function mostrarPeleadores() {
 
             const imgCompleto = document.createElement('img');
             imgCompleto.src = `imagenes/${peleador.nombre} Completo.jpg`; // Reemplaza con la ruta correcta de la imagen completa
-            imgCompleto.alt = `${peleador.nombre} Completo`;
+            // imgCompleto.alt = `${peleador.nombre} Completo`;
 
             divBack.appendChild(imgCompleto);
 

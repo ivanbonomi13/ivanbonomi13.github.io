@@ -1,7 +1,8 @@
 body {
-  /* font-family: "Anton", sans-serif; */
-  font-weight: 400;
+  font-family: "Anton", sans-serif;
+  font-weight: normal;
   font-style: normal;
+  color: #222121;
   margin: 0;
   padding: 0;
   background-color: #fff;
@@ -65,7 +66,7 @@ body {
 }
 
 .peleadores .front h2 {
-  font-size: 30px;
+  font-size: 20px;
 }
 
 .peleadores .front h5 {

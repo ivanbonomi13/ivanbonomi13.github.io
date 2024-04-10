@@ -11,18 +11,19 @@ driver = webdriver.Chrome()  # O ajusta el navegador que prefieras
 driver.get("https://www.ufcespanol.com/athletes/all?filters[0]=status:23")
 wait = WebDriverWait(driver, 10)
 
-# Hacer clic en el botón "Load More" 100 veces con una pausa de 2 segundos entre cada clic
-for _ in range(100):
+# Variable para controlar si el botón "Load More" está presente
+boton_presente = True
+
+# Mientras el botón esté presente, hacer clic en él repetidamente
+while boton_presente:
     try:
-        # Esperar a que el botón sea visible y haga clic en él
-        load_more_button = wait.until(EC.visibility_of_element_located((By.CSS_SELECTOR, 'a.button')))
+        # Hacer clic en el botón "Load More"
+        load_more_button = wait.until(EC.element_to_be_clickable((By.CSS_SELECTOR, 'a.button')))
         load_more_button.click()
-        
-        # Esperar 2 segundos para que se carguen los nuevos peleadores
-        time.sleep(2)
+        time.sleep(3)  # Esperar un momento para que la página se actualice después de hacer clic
     except:
-        # Si no se puede encontrar el botón, salir del bucle
-        break
+        # Si no se puede hacer clic en el botón, salir del bucle
+        boton_presente = False
 
 # Lista de peleadores
 peleadores = []

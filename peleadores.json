@@ -46,11 +46,6 @@
             "record": "0-0-0 (W-L-D)"
         },
         {
-            "nombre": "Alatengheili",
-            "peso": "Bantamweight",
-            "record": "16-9-1 (W-L-D)"
-        },
-        {
             "nombre": "Amir Albazi",
             "peso": "Flyweight",
             "record": "17-1-0 (W-L-D)"
@@ -153,7 +148,7 @@
         {
             "nombre": "Cesar Almeida",
             "peso": "Middleweight",
-            "record": "1-0-0 (W-L-D)"
+            "record": "2-0-0 (W-L-D)"
         },
         {
             "nombre": "Victor Altamirano",
@@ -181,11 +176,6 @@
             "record": "15-7-0 (W-L-D)"
         },
         {
-            "nombre": "Rayanne Amanda",
-            "peso": "Women's Strawweight",
-            "record": "14-7-0 (W-L-D)"
-        },
-        {
             "nombre": "Hyder Amil",
             "peso": "Featherweight",
             "record": "9-0-0 (W-L-D)"
@@ -203,7 +193,7 @@
         {
             "nombre": "J\u00e9ssica Andrade",
             "peso": "Women's Strawweight",
-            "record": "25-12-0 (W-L-D)"
+            "record": "26-12-0 (W-L-D)"
         },
         {
             "nombre": "Juan Andres Luna",
@@ -248,7 +238,7 @@
         {
             "nombre": "Dan Argueta",
             "peso": "Bantamweight",
-            "record": "9-1-0 (W-L-D)"
+            "record": "9-2-0 (W-L-D)"
         },
         {
             "nombre": "Rheza Arianto",
@@ -289,11 +279,6 @@
             "nombre": "Jose Augusto",
             "peso": "Light Heavyweight",
             "record": "0-0-0 (W-L-D)"
-        },
-        {
-            "nombre": "Julia Avila",
-            "peso": "Women's Bantamweight",
-            "record": "9-3-0 (W-L-D)"
         },
         {
             "nombre": "Ottman Azaitar",
@@ -449,11 +434,6 @@
             "nombre": "Rodolfo Bellato",
             "peso": "Light Heavyweight",
             "record": "12-2-0 (W-L-D)"
-        },
-        {
-            "nombre": "Gabriel Benitez",
-            "peso": "Lightweight",
-            "record": "23-12-0 (W-L-D)"
         },
         {
             "nombre": "Khadzhimurat Bestaev",
@@ -636,11 +616,6 @@
             "record": "0-0-1 (W-L-D)"
         },
         {
-            "nombre": "Cody Brundage",
-            "peso": "Middleweight",
-            "record": "10-5-0 (W-L-D)"
-        },
-        {
             "nombre": "Robert Bryczek",
             "peso": "Middleweight",
             "record": "17-6-0 (W-L-D)"
@@ -648,7 +623,7 @@
         {
             "nombre": "Lukasz Brzeski",
             "peso": "Heavyweight",
-            "record": "8-4-1 (W-L-D)"
+            "record": "9-4-1 (W-L-D)"
         },
         {
             "nombre": "Joaquin Buckley",
@@ -663,7 +638,7 @@
         {
             "nombre": "Dylan Budka",
             "peso": "Middleweight",
-            "record": "7-2-0 (W-L-D)"
+            "record": "7-3-0 (W-L-D)"
         },
         {
             "nombre": "Modestas Bukauskas",
@@ -898,7 +873,7 @@
         {
             "nombre": "Nora Cornolle",
             "peso": "Women's Bantamweight",
-            "record": "7-1-0 (W-L-D)"
+            "record": "8-1-0 (W-L-D)"
         },
         {
             "nombre": "Jonathan Correa",
@@ -1088,7 +1063,7 @@
         {
             "nombre": "Germaine de Randamie",
             "peso": "Women's Bantamweight",
-            "record": "10-4-0 (W-L-D)"
+            "record": "10-5-0 (W-L-D)"
         },
         {
             "nombre": "Carl Deaton",
@@ -1139,11 +1114,6 @@
             "nombre": "Ozzy Diaz",
             "peso": "Middleweight",
             "record": "0-1-0 (W-L-D)"
-        },
-        {
-            "nombre": "Jhonata Diniz",
-            "peso": "Heavyweight",
-            "record": "1-0-0 (W-L-D)"
         },
         {
             "nombre": "Rico DiSciullo",
@@ -1336,11 +1306,6 @@
             "record": "0-1-0 (W-L-D)"
         },
         {
-            "nombre": "Steve Erceg",
-            "peso": "Flyweight",
-            "record": "12-1-0 (W-L-D)"
-        },
-        {
             "nombre": "Julian Erosa",
             "peso": "Featherweight",
             "record": "29-12-0 (W-L-D)"
@@ -1383,7 +1348,7 @@
         {
             "nombre": "Pedro Falcao",
             "peso": "Bantamweight",
-            "record": "16-3-0 (W-L-D)"
+            "record": "16-4-0 (W-L-D)"
         },
         {
             "nombre": "Jair Farias",
@@ -1436,14 +1401,9 @@
             "record": "16-8-0 (W-L-D)"
         },
         {
-            "nombre": "Michal Figlak",
-            "peso": "Lightweight",
-            "record": "8-1-0 (W-L-D)"
-        },
-        {
             "nombre": "Deiveson Figueiredo",
             "peso": "Bantamweight",
-            "record": "22-3-1 (W-L-D)"
+            "record": "23-3-1 (W-L-D)"
         },
         {
             "nombre": "Jafel Filho",
@@ -1528,7 +1488,7 @@
         {
             "nombre": "Justin Gaethje",
             "peso": "Lightweight",
-            "record": "26-4-0 (W-L-D)"
+            "record": "26-5-0 (W-L-D)"
         },
         {
             "nombre": "Muin Gafurov",
@@ -1553,7 +1513,7 @@
         {
             "nombre": "Cody Garbrandt",
             "peso": "Bantamweight",
-            "record": "14-5-0 (W-L-D)"
+            "record": "14-6-0 (W-L-D)"
         },
         {
             "nombre": "Harrison Garcia",
@@ -1721,14 +1681,9 @@
             "record": "4-2-0 (W-L-D)"
         },
         {
-            "nombre": "Gabe Green",
-            "peso": "Welterweight",
-            "record": "11-5-0 (W-L-D)"
-        },
-        {
             "nombre": "Bobby Green",
             "peso": "Lightweight",
-            "record": "31-15-1 (W-L-D)"
+            "record": "32-15-1 (W-L-D)"
         },
         {
             "nombre": "Logan Greenhalgh",
@@ -1863,7 +1818,7 @@
         {
             "nombre": "Kayla Harrison",
             "peso": "Women's Bantamweight",
-            "record": "0-0-0 (W-L-D)"
+            "record": "17-1-0 (W-L-D)"
         },
         {
             "nombre": "Phil Hawes",
@@ -1881,11 +1836,6 @@
             "record": "12-4-0 (W-L-D)"
         },
         {
-            "nombre": "Victor Henry",
-            "peso": "Bantamweight",
-            "record": "23-6-0 (W-L-D)"
-        },
-        {
             "nombre": "Jai Herbert",
             "peso": "Lightweight",
             "record": "12-5-1 (W-L-D)"
@@ -1896,19 +1846,9 @@
             "record": "24-8-0 (W-L-D)"
         },
         {
-            "nombre": "Alexander Hernandez",
-            "peso": "Lightweight",
-            "record": "14-7-0 (W-L-D)"
-        },
-        {
             "nombre": "Carlos Hernandez",
             "peso": "Flyweight",
             "record": "9-3-0 (W-L-D)"
-        },
-        {
-            "nombre": "Anthony Hernandez",
-            "peso": "Middleweight",
-            "record": "12-2-0 (W-L-D)"
         },
         {
             "nombre": "Alexander Hernandez",
@@ -1916,14 +1856,14 @@
             "record": "14-8-0 (W-L-D)"
         },
         {
+            "nombre": "Anthony Hernandez",
+            "peso": "Middleweight",
+            "record": "12-2-0 (W-L-D)"
+        },
+        {
             "nombre": "Brady Hiestand",
             "peso": "Bantamweight",
             "record": "8-2-0 (W-L-D)"
-        },
-        {
-            "nombre": "Jamahal Hill",
-            "peso": "Light Heavyweight",
-            "record": "12-1-0 (W-L-D)"
         },
         {
             "nombre": "Angela Hill",
@@ -1947,13 +1887,8 @@
         },
         {
             "nombre": "Max Holloway",
-            "peso": "Featherweight",
-            "record": "25-7-0 (W-L-D)"
-        },
-        {
-            "nombre": "Holly Holm",
-            "peso": "Women's Bantamweight",
-            "record": "15-6-0 (W-L-D)"
+            "peso": "Lightweight",
+            "record": "26-7-0 (W-L-D)"
         },
         {
             "nombre": "Kurt Holobaugh",
@@ -1986,11 +1921,6 @@
             "record": "6-1-0 (W-L-D)"
         },
         {
-            "nombre": "Austin Hubbard",
-            "peso": "Lightweight",
-            "record": "16-6-0 (W-L-D)"
-        },
-        {
             "nombre": "Sam Hughes",
             "peso": "Women's Strawweight",
             "record": "8-6-0 (W-L-D)"
@@ -1998,7 +1928,7 @@
         {
             "nombre": "Victor Hugo",
             "peso": "Bantamweight",
-            "record": "24-4-0 (W-L-D)"
+            "record": "25-4-0 (W-L-D)"
         },
         {
             "nombre": "Al Iaquinta",
@@ -2029,11 +1959,6 @@
             "nombre": "Montel Jackson",
             "peso": "Bantamweight",
             "record": "14-2-0 (W-L-D)"
-        },
-        {
-            "nombre": "Damon Jackson",
-            "peso": "Featherweight",
-            "record": "22-6-1 (W-L-D)"
         },
         {
             "nombre": "Jordan Jackson",
@@ -2221,11 +2146,6 @@
             "record": "15-3-0 (W-L-D)"
         },
         {
-            "nombre": "Calvin Kattar",
-            "peso": "Featherweight",
-            "record": "23-7-0 (W-L-D)"
-        },
-        {
             "nombre": "Toshiomi Kazama",
             "peso": "Bantamweight",
             "record": "10-4-0 (W-L-D)"
@@ -2391,11 +2311,6 @@
             "record": "18-5-0 (W-L-D)"
         },
         {
-            "nombre": "Austen Lane",
-            "peso": "Heavyweight",
-            "record": "12-4-0 (W-L-D)"
-        },
-        {
             "nombre": "Taylor Lapilus",
             "peso": "Bantamweight",
             "record": "19-4-0 (W-L-D)"
@@ -2506,11 +2421,6 @@
             "record": "7-2-0 (W-L-D)"
         },
         {
-            "nombre": "James Llontop",
-            "peso": "Lightweight",
-            "record": "0-0-0 (W-L-D)"
-        },
-        {
             "nombre": "Christian Lohsen",
             "peso": "Lightweight",
             "record": "0-0-0 (W-L-D)"
@@ -2534,11 +2444,6 @@
             "nombre": "Bruno Lopes",
             "peso": "Light Heavyweight",
             "record": "0-1-0 (W-L-D)"
-        },
-        {
-            "nombre": "Diego Lopes",
-            "peso": "Featherweight",
-            "record": "23-6-0 (W-L-D)"
         },
         {
             "nombre": "Aaron Lott",
@@ -2576,11 +2481,6 @@
             "record": "8-4-1 (W-L-D)"
         },
         {
-            "nombre": "Caio Machado",
-            "peso": "Heavyweight",
-            "record": "8-2-1 (W-L-D)"
-        },
-        {
             "nombre": "Ian Machado Garry",
             "peso": "Welterweight",
             "record": "14-0-0 (W-L-D)"
@@ -2614,11 +2514,6 @@
             "nombre": "Abus Magomedov",
             "peso": "Middleweight",
             "record": "25-6-1 (W-L-D)"
-        },
-        {
-            "nombre": "Maheshate",
-            "peso": "Lightweight",
-            "record": "9-3-0 (W-L-D)"
         },
         {
             "nombre": "Jennifer Maia",
@@ -2659,11 +2554,6 @@
             "nombre": "Nate Maness",
             "peso": "Flyweight",
             "record": "15-3-0 (W-L-D)"
-        },
-        {
-            "nombre": "Marnic Mann",
-            "peso": "Women's Strawweight",
-            "record": "6-2-0 (W-L-D)"
         },
         {
             "nombre": "Daniel Marcos",
@@ -2738,7 +2628,7 @@
         {
             "nombre": "Jean Matsumoto",
             "peso": "Bantamweight",
-            "record": "14-0-0 (W-L-D)"
+            "record": "15-0-0 (W-L-D)"
         },
         {
             "nombre": "Jake Matthews",
@@ -2756,11 +2646,6 @@
             "record": "15-5-0 (W-L-D)"
         },
         {
-            "nombre": "Don'Tale Mayes",
-            "peso": "Heavyweight",
-            "record": "10-6-0 (W-L-D)"
-        },
-        {
             "nombre": "Molly McCann",
             "peso": "Women's Strawweight",
             "record": "14-6-0 (W-L-D)"
@@ -2768,7 +2653,7 @@
         {
             "nombre": "Court McGee",
             "peso": "Welterweight",
-            "record": "22-12-0 (W-L-D)"
+            "record": "22-13-0 (W-L-D)"
         },
         {
             "nombre": "Marcus McGhee",
@@ -2801,19 +2686,9 @@
             "record": "15-6-0 (W-L-D)"
         },
         {
-            "nombre": "Tim Means",
-            "peso": "Welterweight",
-            "record": "33-15-1 (W-L-D)"
-        },
-        {
             "nombre": "MarQuel Mederos",
             "peso": "Lightweight",
             "record": "9-1-0 (W-L-D)"
-        },
-        {
-            "nombre": "Uro\u0161 Medi\u0107",
-            "peso": "Welterweight",
-            "record": "9-2-0 (W-L-D)"
         },
         {
             "nombre": "Gerald Meerschaert",
@@ -2848,7 +2723,7 @@
         {
             "nombre": "Jim Miller",
             "peso": "Lightweight",
-            "record": "37-17-0 (W-L-D)"
+            "record": "37-18-0 (W-L-D)"
         },
         {
             "nombre": "Zhang Mingyang",
@@ -2888,7 +2763,7 @@
         {
             "nombre": "Renato Moicano",
             "peso": "Lightweight",
-            "record": "18-5-1 (W-L-D)"
+            "record": "19-5-1 (W-L-D)"
         },
         {
             "nombre": "Thiago Mois\u00e9s",
@@ -2923,7 +2798,7 @@
         {
             "nombre": "Alex Morono",
             "peso": "Welterweight",
-            "record": "23-9-0 (W-L-D)"
+            "record": "24-9-0 (W-L-D)"
         },
         {
             "nombre": "Maryna Moroz",
@@ -2959,11 +2834,6 @@
             "nombre": "Jamie Mullarkey",
             "peso": "Lightweight",
             "record": "17-7-0 (W-L-D)"
-        },
-        {
-            "nombre": "Melissa Mullins",
-            "peso": "Women's Bantamweight",
-            "record": "6-0-0 (W-L-D)"
         },
         {
             "nombre": "Pedro Munhoz",
@@ -3026,11 +2896,6 @@
             "record": "6-3-0 (W-L-D)"
         },
         {
-            "nombre": "Liang Na",
-            "peso": "Women's Strawweight",
-            "record": "17-7-0 (W-L-D)"
-        },
-        {
             "nombre": "Muhammad Naimov",
             "peso": "Featherweight",
             "record": "11-2-0 (W-L-D)"
@@ -3076,11 +2941,6 @@
             "record": "0-0-0 (W-L-D)"
         },
         {
-            "nombre": "Kyle Nelson",
-            "peso": "Featherweight",
-            "record": "14-5-1 (W-L-D)"
-        },
-        {
             "nombre": "Gunnar Nelson",
             "peso": "Welterweight",
             "record": "19-5-1 (W-L-D)"
@@ -3113,7 +2973,7 @@
         {
             "nombre": "Bo Nickal",
             "peso": "Middleweight",
-            "record": "5-0-0 (W-L-D)"
+            "record": "6-0-0 (W-L-D)"
         },
         {
             "nombre": "Matheus Nicolau",
@@ -3231,14 +3091,14 @@
             "record": "0-1-0 (W-L-D)"
         },
         {
-            "nombre": "Charles Oliveira",
-            "peso": "Lightweight",
-            "record": "34-9-0 (W-L-D)"
-        },
-        {
             "nombre": "Vinicius Oliveira",
             "peso": "Bantamweight",
             "record": "20-3-0 (W-L-D)"
+        },
+        {
+            "nombre": "Charles Oliveira",
+            "peso": "Lightweight",
+            "record": "34-10-0 (W-L-D)"
         },
         {
             "nombre": "Ravena Oliveira",
@@ -3383,7 +3243,7 @@
         {
             "nombre": "Trevor Peek",
             "peso": "Lightweight",
-            "record": "9-1-0 (W-L-D)"
+            "record": "9-2-0 (W-L-D)"
         },
         {
             "nombre": "Mat\u011bj Pe\u0148\u00e1z",
@@ -3454,11 +3314,6 @@
             "nombre": "Armen Petrosyan",
             "peso": "Middleweight",
             "record": "9-3-0 (W-L-D)"
-        },
-        {
-            "nombre": "Ivana Petrovic",
-            "peso": "Women's Flyweight",
-            "record": "6-1-0 (W-L-D)"
         },
         {
             "nombre": "Peter Petties",
@@ -3558,7 +3413,7 @@
         {
             "nombre": "Ji\u0159\u00ed Proch\u00e1zka",
             "peso": "Light Heavyweight",
-            "record": "29-4-1 (W-L-D)"
+            "record": "30-4-1 (W-L-D)"
         },
         {
             "nombre": "Lucie Pudilova",
@@ -3613,7 +3468,7 @@
         {
             "nombre": "Aleksandar Raki\u0107",
             "peso": "Light Heavyweight",
-            "record": "14-3-0 (W-L-D)"
+            "record": "14-4-0 (W-L-D)"
         },
         {
             "nombre": "Mitch Ramirez",
@@ -3624,11 +3479,6 @@
             "nombre": "Ricardo Ramos",
             "peso": "Featherweight",
             "record": "16-6-0 (W-L-D)"
-        },
-        {
-            "nombre": "Mateusz R\u0119becki",
-            "peso": "Lightweight",
-            "record": "19-1-0 (W-L-D)"
         },
         {
             "nombre": "Greg Rebello",
@@ -3751,25 +3601,14 @@
             "record": "17-4-0 (W-L-D)"
         },
         {
-            "nombre": "Piera Rodriguez",
-            "peso": "Women's Strawweight",
-            "record": "9-1-0 (W-L-D)"
-        },
-        {
             "nombre": "Pete Rodriguez",
             "peso": "Welterweight",
             "record": "5-2-0 (W-L-D)"
         },
-        
         {
             "nombre": "Ronaldo Rodriguez",
             "peso": "Flyweight",
             "record": "17-2-0 (W-L-D)"
-        },
-        {
-            "nombre": "Marina Rodriguez",
-            "peso": "Women's Strawweight",
-            "record": "17-3-2 (W-L-D)"
         },
         {
             "nombre": "Christian Rodriguez",
@@ -3785,6 +3624,11 @@
             "nombre": "Piera Rodriguez",
             "peso": "Women's Strawweight",
             "record": "9-1-0 (W-L-D)"
+        },
+        {
+            "nombre": "Marina Rodriguez",
+            "peso": "Women's Strawweight",
+            "record": "17-4-2 (W-L-D)"
         },
         {
             "nombre": "Alexandr Romanov",
@@ -4092,11 +3936,6 @@
             "record": "23-11-0 (W-L-D)"
         },
         {
-            "nombre": "Mayra Bueno Silva",
-            "peso": "Women's Bantamweight",
-            "record": "10-3-1 (W-L-D)"
-        },
-        {
             "nombre": "Karine Silva",
             "peso": "Women's Flyweight",
             "record": "17-4-0 (W-L-D)"
@@ -4105,6 +3944,11 @@
             "nombre": "Natalia Silva",
             "peso": "Women's Flyweight",
             "record": "17-5-1 (W-L-D)"
+        },
+        {
+            "nombre": "Mayra Bueno Silva",
+            "peso": "Women's Bantamweight",
+            "record": "10-3-1 (W-L-D)"
         },
         {
             "nombre": "Douglas Silva de Andrade",
@@ -4177,11 +4021,6 @@
             "record": "0-0-0 (W-L-D)"
         },
         {
-            "nombre": "Ketlen Souza",
-            "peso": "Women's Flyweight",
-            "record": "13-4-0 (W-L-D)"
-        },
-        {
             "nombre": "Ryan Spann",
             "peso": "Light Heavyweight",
             "record": "21-9-0 (W-L-D)"
@@ -4209,7 +4048,7 @@
         {
             "nombre": "Aljamain Sterling",
             "peso": "Featherweight",
-            "record": "23-4-0 (W-L-D)"
+            "record": "24-4-0 (W-L-D)"
         },
         {
             "nombre": "Lazar Stojadinovic",
@@ -4367,11 +4206,6 @@
             "record": "15-0-0 (W-L-D)"
         },
         {
-            "nombre": "Tecia Torres",
-            "peso": "Women's Strawweight",
-            "record": "13-6-0 (W-L-D)"
-        },
-        {
             "nombre": "Manuel Torres",
             "peso": "Lightweight",
             "record": "15-2-0 (W-L-D)"
@@ -4424,7 +4258,7 @@
         {
             "nombre": "Jalin Turner",
             "peso": "Lightweight",
-            "record": "14-7-0 (W-L-D)"
+            "record": "14-8-0 (W-L-D)"
         },
         {
             "nombre": "Austin Tweedy",

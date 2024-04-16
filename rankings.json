@@ -30,11 +30,11 @@
                 },
                 {
                     "posicion": 7,
-                    "nombre": "Charles Oliveira"
+                    "nombre": "Alexander Volkanovski"
                 },
                 {
                     "posicion": 8,
-                    "nombre": "Alexander Volkanovski"
+                    "nombre": "Max Holloway"
                 },
                 {
                     "posicion": 9,
@@ -46,19 +46,19 @@
                 },
                 {
                     "posicion": 11,
-                    "nombre": "Israel Adesanya"
+                    "nombre": "Charles Oliveira"
                 },
                 {
                     "posicion": 12,
-                    "nombre": "Tom Aspinall"
+                    "nombre": "Israel Adesanya"
                 },
                 {
                     "posicion": 13,
-                    "nombre": "Sean Strickland"
+                    "nombre": "Tom Aspinall"
                 },
                 {
                     "posicion": 14,
-                    "nombre": "Max Holloway"
+                    "nombre": "Sean Strickland"
                 },
                 {
                     "posicion": 15,
@@ -142,23 +142,23 @@
                 },
                 {
                     "posicion": 2,
-                    "nombre": "Aljamain Sterling"
-                },
-                {
-                    "posicion": 3,
                     "nombre": "Cory Sandhagen"
                 },
                 {
-                    "posicion": 4,
+                    "posicion": 3,
                     "nombre": "Petr Yan"
                 },
                 {
-                    "posicion": 5,
+                    "posicion": 4,
                     "nombre": "Marlon Vera"
                 },
                 {
-                    "posicion": 6,
+                    "posicion": 5,
                     "nombre": "Henry Cejudo"
+                },
+                {
+                    "posicion": 6,
+                    "nombre": "Deiveson Figueiredo"
                 },
                 {
                     "posicion": 7,
@@ -166,35 +166,35 @@
                 },
                 {
                     "posicion": 8,
-                    "nombre": "Deiveson Figueiredo"
-                },
-                {
-                    "posicion": 9,
                     "nombre": "Rob Font"
                 },
                 {
-                    "posicion": 10,
+                    "posicion": 9,
                     "nombre": "Umar Nurmagomedov"
                 },
                 {
-                    "posicion": 11,
+                    "posicion": 10,
                     "nombre": "Kyler Phillips"
                 },
                 {
-                    "posicion": 12,
+                    "posicion": 11,
                     "nombre": "Dominick Cruz"
                 },
                 {
-                    "posicion": 13,
+                    "posicion": 12,
                     "nombre": "Mario Bautista"
                 },
                 {
-                    "posicion": 14,
+                    "posicion": 13,
                     "nombre": "Jonathan Martinez"
                 },
                 {
-                    "posicion": 15,
+                    "posicion": 14,
                     "nombre": "Pedro Munhoz"
+                },
+                {
+                    "posicion": 15,
+                    "nombre": "Ricky Simon"
                 }
             ]
         },
@@ -232,35 +232,35 @@
                 },
                 {
                     "posicion": 8,
-                    "nombre": "Calvin Kattar"
+                    "nombre": "Aljamain Sterling"
                 },
                 {
                     "posicion": 9,
-                    "nombre": "Giga Chikadze"
+                    "nombre": "Calvin Kattar"
                 },
                 {
                     "posicion": 10,
-                    "nombre": "Bryce Mitchell"
+                    "nombre": "Giga Chikadze"
                 },
                 {
                     "posicion": 11,
-                    "nombre": "Edson Barboza"
+                    "nombre": "Bryce Mitchell"
                 },
                 {
                     "posicion": 12,
-                    "nombre": "Dan Ige"
+                    "nombre": "Edson Barboza"
                 },
                 {
                     "posicion": 13,
-                    "nombre": "Sodiq Yusuff"
+                    "nombre": "Dan Ige"
                 },
                 {
                     "posicion": 14,
-                    "nombre": "Lerone Murphy"
+                    "nombre": "Diego Lopes"
                 },
                 {
                     "posicion": 15,
-                    "nombre": "Alex Caceres"
+                    "nombre": "Sodiq Yusuff"
                 }
             ]
         },
@@ -270,19 +270,19 @@
             "peleadores": [
                 {
                     "posicion": 1,
-                    "nombre": "Charles Oliveira"
+                    "nombre": "Arman Tsarukyan"
                 },
                 {
                     "posicion": 2,
-                    "nombre": "Justin Gaethje"
+                    "nombre": "Charles Oliveira"
                 },
                 {
                     "posicion": 3,
-                    "nombre": "Dustin Poirier"
+                    "nombre": "Justin Gaethje"
                 },
                 {
                     "posicion": 4,
-                    "nombre": "Arman Tsarukyan"
+                    "nombre": "Dustin Poirier"
                 },
                 {
                     "posicion": 5,
@@ -290,11 +290,11 @@
                 },
                 {
                     "posicion": 6,
-                    "nombre": "Michael Chandler"
+                    "nombre": "Beneil Dariush"
                 },
                 {
                     "posicion": 7,
-                    "nombre": "Beneil Dariush"
+                    "nombre": "Michael Chandler"
                 },
                 {
                     "posicion": 8,
@@ -302,31 +302,31 @@
                 },
                 {
                     "posicion": 9,
-                    "nombre": "Dan Hooker"
+                    "nombre": "Max Holloway"
                 },
                 {
                     "posicion": 10,
-                    "nombre": "Jalin Turner"
-                },
-                {
-                    "posicion": 11,
-                    "nombre": "Beno\u00eet Saint Denis"
-                },
-                {
-                    "posicion": 12,
-                    "nombre": "Rafael Dos Anjos"
-                },
-                {
-                    "posicion": 13,
                     "nombre": "Renato Moicano"
                 },
                 {
+                    "posicion": 11,
+                    "nombre": "Dan Hooker"
+                },
+                {
+                    "posicion": 12,
+                    "nombre": "Jalin Turner"
+                },
+                {
+                    "posicion": 13,
+                    "nombre": "Beno\u00eet Saint Denis"
+                },
+                {
                     "posicion": 14,
-                    "nombre": "Bobby Green"
+                    "nombre": "Rafael Dos Anjos"
                 },
                 {
                     "posicion": 15,
-                    "nombre": "Matt Frevola"
+                    "nombre": "Bobby Green"
                 }
             ]
         },
@@ -454,11 +454,11 @@
                 },
                 {
                     "posicion": 14,
-                    "nombre": "Chris Curtis"
+                    "nombre": "Caio Borralho"
                 },
                 {
                     "posicion": 15,
-                    "nombre": "Caio Borralho"
+                    "nombre": "Chris Curtis"
                 }
             ]
         },
@@ -468,15 +468,15 @@
             "peleadores": [
                 {
                     "posicion": 1,
-                    "nombre": "Jamahal Hill"
-                },
-                {
-                    "posicion": 2,
                     "nombre": "Ji\u0159\u00ed Proch\u00e1zka"
                 },
                 {
-                    "posicion": 3,
+                    "posicion": 2,
                     "nombre": "Magomed Ankalaev"
+                },
+                {
+                    "posicion": 3,
+                    "nombre": "Jamahal Hill"
                 },
                 {
                     "posicion": 4,
@@ -648,11 +648,11 @@
                 },
                 {
                     "posicion": 13,
-                    "nombre": "Ketlen Vieira"
+                    "nombre": "Kayla Harrison"
                 },
                 {
                     "posicion": 14,
-                    "nombre": "Maycee Barber"
+                    "nombre": "Ketlen Vieira"
                 },
                 {
                     "posicion": 15,
@@ -666,11 +666,11 @@
             "peleadores": [
                 {
                     "posicion": 1,
-                    "nombre": "Yan Xiaonan"
+                    "nombre": "Tatiana Suarez"
                 },
                 {
                     "posicion": 2,
-                    "nombre": "Tatiana Suarez"
+                    "nombre": "Yan Xiaonan"
                 },
                 {
                     "posicion": 3,
@@ -805,56 +805,56 @@
                     "nombre": "Ketlen Vieira"
                 },
                 {
-                    "posicion": 2,
+                    "posicion": 3,
                     "nombre": "Mayra Bueno Silva"
                 },
                 {
                     "posicion": 4,
-                    "nombre": "Irene Aldana"
+                    "nombre": "Kayla Harrison"
                 },
                 {
                     "posicion": 5,
-                    "nombre": "Holly Holm"
+                    "nombre": "Irene Aldana"
                 },
                 {
                     "posicion": 6,
-                    "nombre": "Macy Chiasson"
+                    "nombre": "Holly Holm"
                 },
                 {
                     "posicion": 7,
-                    "nombre": "Miesha Tate"
+                    "nombre": "Macy Chiasson"
                 },
                 {
                     "posicion": 8,
-                    "nombre": "Karol Rosa"
+                    "nombre": "Miesha Tate"
                 },
                 {
                     "posicion": 9,
-                    "nombre": "Norma Dumont"
+                    "nombre": "Karol Rosa"
                 },
                 {
                     "posicion": 10,
-                    "nombre": "Pannie Kianzad"
+                    "nombre": "Norma Dumont"
                 },
                 {
                     "posicion": 11,
-                    "nombre": "Yana Santos"
+                    "nombre": "Pannie Kianzad"
                 },
                 {
                     "posicion": 12,
-                    "nombre": "Julia Avila"
+                    "nombre": "Yana Santos"
                 },
                 {
                     "posicion": 13,
-                    "nombre": "Chelsea Chandler"
+                    "nombre": "Julia Avila"
                 },
                 {
                     "posicion": 14,
-                    "nombre": "Germaine de Randamie"
+                    "nombre": "Chelsea Chandler"
                 },
                 {
                     "posicion": 15,
-                    "nombre": "Josiane Nunes"
+                    "nombre": "Germaine de Randamie"
                 }
             ]
         }

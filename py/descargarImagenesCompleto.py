@@ -22,7 +22,7 @@ while boton_presente:
         # Hacer clic en el botón "Load More"
         load_more_button = wait.until(EC.element_to_be_clickable((By.CSS_SELECTOR, 'a.button')))
         load_more_button.click()
-        time.sleep(2)  # Esperar un momento para que la página se actualice después de hacer clic
+        time.sleep(5)  # Esperar un momento para que la página se actualice después de hacer clic
     except:
         # Si no se puede hacer clic en el botón, salir del bucle
         boton_presente = False

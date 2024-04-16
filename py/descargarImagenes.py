@@ -10,14 +10,11 @@ import time
 
 # Configuración de Selenium
 driver = webdriver.Chrome()  # O ajusta el navegador que prefieras
-driver.implicitly_wait(5)  # Espera implícita de 5 segundos
 driver.get("https://www.ufcespanol.com/athletes/all?filters[0]=status:23")
+wait = WebDriverWait(driver, 10)
 
 # Variable para controlar si el botón "Load More" está presente
 boton_presente = True
-
-# Espera explícita con un tiempo máximo definido
-wait = WebDriverWait(driver, 30)
 
 # Mientras el botón esté presente, hacer clic en él repetidamente
 while boton_presente:

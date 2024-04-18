@@ -1,13 +1,33 @@
 function mostrarPeleadores() {
-    const jsonPath = '/peleadores.json'; // Reemplaza con la URL correcta del JSON
+    const jsonPath = '/peleadores.json';
     const contenedorPeleadores = document.getElementById('contenedor-peleadores');
+    const inputBuscar = document.getElementById('inputBuscar');
+    let peleadoresOriginales; // Variable para almacenar los datos originales de los peleadores
 
     const xhr = new XMLHttpRequest();
     xhr.onreadystatechange = function () {
         if (xhr.readyState === 4) {
             if (xhr.status === 200) {
                 const data = JSON.parse(xhr.responseText);
-                construirPeleadores(data.peleadores);
+                peleadoresOriginales = data.peleadores; // Almacenar los datos originales
+                construirPeleadores(peleadoresOriginales); // Construir peleadores originales al cargar la página
+                
+                // Agregar evento de input al input de búsqueda
+                inputBuscar.addEventListener('input', function() {
+                    const valorBusqueda = inputBuscar.value.trim().toLowerCase();
+                    const peleadoresFiltrados = peleadoresOriginales.filter(function(peleador) {
+                        const nombreCompleto = peleador.nombre.toLowerCase();
+                        const partesNombre = nombreCompleto.split(' '); // Dividir el nombre en partes (nombre y apellido)
+                        const primerNombre = partesNombre[0];
+                        const apellido = partesNombre[partesNombre.length - 1];
+                
+                        // Verificar si el nombre o el apellido comienzan con el valor de búsqueda
+                        return primerNombre.startsWith(valorBusqueda) || apellido.startsWith(valorBusqueda);
+                    });
+                    limpiarContenedorPeleadores();
+                    construirPeleadores(peleadoresFiltrados);
+                });
+                
             } else {
                 console.error('Error al cargar el archivo JSON:', xhr.statusText);
             }
@@ -16,6 +36,16 @@ function mostrarPeleadores() {
 
     xhr.open('GET', jsonPath, true);
     xhr.send();
+
+
+    inputBuscar.addEventListener('input', function() {
+        const valorBusqueda = inputBuscar.value.trim().toLowerCase();
+        const peleadoresFiltrados = data.peleadores.filter(function(peleador) {
+            return peleador.nombre.toLowerCase().includes(valorBusqueda);
+        });
+        limpiarContenedorPeleadores();
+        construirPeleadores(peleadoresFiltrados);
+    });
 
     function construirPeleadores(peleadores) {
         for (const peleador of peleadores) {
@@ -46,7 +76,7 @@ function mostrarPeleadores() {
             h2NombreBack.textContent = peleador.nombre;
 
             const pPeso = document.createElement('p');
-            pPeso.textContent = `Peso ${peleador.peso}`;
+            pPeso.textContent = `${peleador.peso}`;
 
             const pRecord = document.createElement('p');
             pRecord.classList.add('record');
@@ -88,6 +118,9 @@ function mostrarPeleadores() {
 
             contenedorPeleadores.appendChild(divPeleador);
         }
+    }
+    function limpiarContenedorPeleadores() {
+        contenedorPeleadores.innerHTML = '';
     }
 }
 

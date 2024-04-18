@@ -69,11 +69,11 @@ function mostrarRankings() {
             for (const peleador of categoria.peleadores) {
                 const filaPeleador = document.createElement('tr');
                 filaPeleador.innerHTML = `<td class="posicion">${peleador.posicion}</td>
-                                        <td class="peleador-ranking" id="miElemento" colspan="1"><a >${peleador.nombre}</a></td>`;
+                                        <td class="peleador-ranking" id="miElemento" colspan="1"><a href="/Peleadores/${peleador.nombre}.html">${peleador.nombre}</a></td>`;
                 tabla.appendChild(filaPeleador);
             }
 
-            // href="/Peleadores/${peleador.nombre}.html"
+            
 
 
             // Agregar eventos de mouseover y mouseout a cada elemento anterior y elemento-a-estilar

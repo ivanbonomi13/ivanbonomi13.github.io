@@ -9,24 +9,42 @@ body {
 }
 
 
-#contenedor-peleadores {
-  margin-top: 80px;
-  /* Ajusta según la altura de tu nav y header combinados */
+h1 {
+  position: relative;
+  top: 65px;
+  display: flex;
+  left: 35%;
+  font-size: 50px !important; 
+letter-spacing: 20px;
 }
 
+#inputBuscar {
+  position: absolute;
+  top: 65px;
+  right: 10px;
+  margin-bottom: 30px;
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid #e0e0e0;
+  font-size: 14px;
+  background-color: #e0e0e0;
+}
+
+
+
 #contenedor-peleadores {
+  margin-top: 140px;
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-around;
+  justify-content: flex-start;
   padding: 5px;
-
 }
 
 .peleadores {
-  width: 350px;
+  width: 300px;
   height: 250px;
-  margin: 15px;
-  padding: 35px;
+  margin: 0;
+  padding: 0;
   background-color: #fff;
   display: flex;
   flex-direction: column;
@@ -36,7 +54,7 @@ body {
 }
 
 .peleadores div {
-  transition: 0.5s;
+  transition: 0.7s;
 }
 
 .front,
@@ -74,19 +92,19 @@ body {
 }
 
 .peleadores .front img {
-  width: 200px;
+  width: 133px;
   box-shadow: 0px 20px 10px -15px gray;
 }
 
 .peleadores .back {
   box-shadow: 0px 0px 50px black;
-
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   text-align: center;
   overflow: hidden;
+  max-width: 300px;
 }
 
 .peleadores .back h2 {
@@ -139,11 +157,10 @@ button a {
 
 .peleadores .back img {
   width: auto;
-  /* Asegura que la imagen no se desborde del contenedor */
   height: 200px;
   object-fit: cover;
-  margin-left: 230px;
-  margin-top: -170px;
+  margin-left: 200px;
+  margin-top: -200px;
 
 }
 

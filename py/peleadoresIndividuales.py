@@ -1,20 +1,37 @@
 import os
 import json
+import unicodedata
+
+# Ruta al archivo JSON
+ruta_json = 'C:\\Users\\ivan.bonomi\\Desktop\\ivanbonomi13.github.io\\Peleadores.json'
 
 # Lee el archivo JSON
-with open('../peleadores.json') as f:
-    peleadores = json.load(f)
+with open(ruta_json) as f:
+    data = json.load(f)
 
-# Directorio donde se guardarán los archivos HTML
-directorio_destino = os.path.join(os.path.dirname(__file__), '../Peleadores')
+# Accede a la lista de peleadores
+peleadores = data['peleadores']
+
+# Directorio donde se guardarán los archivos HTML en el escritorio
+directorio_destino = '../Peleadores'
 
 # Crea el directorio si no existe
 if not os.path.exists(directorio_destino):
     os.makedirs(directorio_destino)
 
-# Recorre cada peleador
+# Itera sobre cada peleador
 for peleador in peleadores:
-    nombre_archivo = f"{peleador['nombre'].replace(' ', '_')}.html"  # Reemplaza espacios en el nombre con guiones bajos y agrega extensión .html
+    nombre = peleador['nombre']
+    peso = peleador['peso']
+    record = peleador['record']
+    
+    # Normaliza el nombre del peleador para eliminar representaciones de escape Unicode
+    nombre_normalizado = unicodedata.normalize('NFKD', nombre).encode('ascii', 'ignore').decode()
+    
+    # Genera el nombre del archivo HTML
+    nombre_archivo = f"{nombre_normalizado}.html"
+    
+    # Contenido HTML para el peleador actual
     contenido_html = f"""
 <!DOCTYPE html>
 <html>
@@ -54,7 +71,8 @@ for peleador in peleadores:
     """
 
     # Escribe el contenido en el archivo HTML correspondiente
-    with open(os.path.join(directorio_destino, nombre_archivo), 'w') as html_file:
+    with open(os.path.join(directorio_destino, nombre_archivo), 'w', encoding='utf-8') as html_file:
         html_file.write(contenido_html)
 
-    print(f"Archivo HTML generado para {peleador['nombre']}: {nombre_archivo}")
+    # Decodifica el nombre antes de imprimirlo para evitar errores de codificación
+    print("Archivo HTML generado para", nombre.encode('ascii', 'ignore').decode(), ":", nombre_archivo)

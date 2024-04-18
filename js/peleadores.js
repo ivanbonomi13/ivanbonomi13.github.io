@@ -33,7 +33,7 @@ function mostrarPeleadores() {
             // imgAvatar.alt = peleador.nombre;
 
             const h5Peso = document.createElement('h5');
-            h5Peso.textContent = `Peso ${peleador.peso}`;
+            h5Peso.textContent = `${peleador.peso}`;
 
             divFront.appendChild(h2Nombre);
             divFront.appendChild(imgAvatar);

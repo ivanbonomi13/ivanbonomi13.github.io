@@ -13,7 +13,8 @@ with open(ruta_json) as f:
 peleadores = data['peleadores']
 
 # Directorio donde se guardarán los archivos HTML en el escritorio
-directorio_destino = '../Peleadores'
+directorio_script = os.path.dirname(__file__)
+directorio_destino = os.path.abspath(os.path.join(directorio_script, '..', 'Peleadores'))
 
 # Crea el directorio si no existe
 if not os.path.exists(directorio_destino):
@@ -60,7 +61,7 @@ for peleador in peleadores:
                 <p class="division">{peleador['peso']}</p>
                 <p class="record">{peleador['record']}</p>
             </div>
-            <img src="{peleador['nombre']} Completo.jpg">
+            <img src="../imagenes/{peleador['nombre']} Completo.jpg">
         </div>
     </main>
     <footer></footer>

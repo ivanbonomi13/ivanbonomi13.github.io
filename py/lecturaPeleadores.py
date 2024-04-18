@@ -6,6 +6,23 @@ from selenium.webdriver.support import expected_conditions as EC
 from bs4 import BeautifulSoup
 import json
 
+# Diccionario de equivalencias de peso
+equivalencias_peso = {
+    "Flyweight": "Peso Mosca",
+    "Bantamweight": "Peso Gallo",
+    "Featherweight": "Peso Pluma",
+    "Lightweight": "Peso Ligero",
+    "Welterweight": "Peso Welter",
+    "Middleweight": "Peso Medio",
+    "Light Heavyweight": "Peso Semipesado",
+    "Heavyweight": "Peso Pesado",
+    "Women's Strawweight": "Peso Paja Femenino",
+    "Women's Flyweight": "Peso Mosca Femenino",
+    "Women's Bantamweight": "Peso Gallo Femenino",
+    "Women's Featherweight": "Peso Pluma Femenino",
+    # Agrega más equivalencias según sea necesario
+}
+
 # Configuración de Selenium
 driver = webdriver.Chrome()  # O ajusta el navegador que prefieras
 driver.get("https://www.ufcespanol.com/athletes/all?filters[0]=status:23")
@@ -47,7 +64,7 @@ athlete_records = soup.find_all("span", class_="c-listing-athlete__record")
 for name, title, record in zip(interleaved_names, athlete_titles, athlete_records):
     peleador = {
         "nombre": name,
-        "peso": title.text.strip(),
+        "peso": equivalencias_peso.get(title.text.strip(), title.text.strip()),  # Utiliza el equivalente si está en el diccionario, de lo contrario, usa el valor original
         "record": record.text.strip()
     }
     peleadores.append(peleador)
@@ -63,4 +80,3 @@ with open("peleadores.json", "w") as json_file:
     json.dump(data, json_file, indent=4)
 
 print("Datos guardados en peleadores.json exitosamente.")
-

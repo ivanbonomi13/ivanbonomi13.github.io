@@ -46,15 +46,15 @@
                 },
                 {
                     "posicion": 11,
-                    "nombre": "Charles Oliveira"
-                },
-                {
-                    "posicion": 12,
                     "nombre": "Israel Adesanya"
                 },
                 {
-                    "posicion": 13,
+                    "posicion": 12,
                     "nombre": "Tom Aspinall"
+                },
+                {
+                    "posicion": 13,
+                    "nombre": "Charles Oliveira"
                 },
                 {
                     "posicion": 14,
@@ -88,19 +88,19 @@
                 },
                 {
                     "posicion": 5,
-                    "nombre": "Matheus Nicolau"
+                    "nombre": "Alex Perez"
                 },
                 {
                     "posicion": 6,
-                    "nombre": "Manel Kape"
-                },
-                {
-                    "posicion": 7,
                     "nombre": "Muhammad Mokaev"
                 },
                 {
+                    "posicion": 7,
+                    "nombre": "Manel Kape"
+                },
+                {
                     "posicion": 8,
-                    "nombre": "Alex Perez"
+                    "nombre": "Matheus Nicolau"
                 },
                 {
                     "posicion": 9,
@@ -124,11 +124,11 @@
                 },
                 {
                     "posicion": 14,
-                    "nombre": "David Dvorak"
+                    "nombre": "Sumudaerji"
                 },
                 {
                     "posicion": 15,
-                    "nombre": "Sumudaerji"
+                    "nombre": "David Dvorak"
                 }
             ]
         },
@@ -182,19 +182,19 @@
                 },
                 {
                     "posicion": 12,
-                    "nombre": "Mario Bautista"
-                },
-                {
-                    "posicion": 13,
                     "nombre": "Jonathan Martinez"
                 },
                 {
+                    "posicion": 13,
+                    "nombre": "Mario Bautista"
+                },
+                {
                     "posicion": 14,
-                    "nombre": "Pedro Munhoz"
+                    "nombre": "Ricky Simon"
                 },
                 {
                     "posicion": 15,
-                    "nombre": "Ricky Simon"
+                    "nombre": "Pedro Munhoz"
                 }
             ]
         },
@@ -244,11 +244,11 @@
                 },
                 {
                     "posicion": 11,
-                    "nombre": "Bryce Mitchell"
+                    "nombre": "Edson Barboza"
                 },
                 {
                     "posicion": 12,
-                    "nombre": "Edson Barboza"
+                    "nombre": "Bryce Mitchell"
                 },
                 {
                     "posicion": 13,
@@ -508,11 +508,11 @@
                 },
                 {
                     "posicion": 11,
-                    "nombre": "Ryan Spann"
+                    "nombre": "Alonzo Menifield"
                 },
                 {
                     "posicion": 12,
-                    "nombre": "Alonzo Menifield"
+                    "nombre": "Bogdan Guskov"
                 },
                 {
                     "posicion": 13,
@@ -524,7 +524,7 @@
                 },
                 {
                     "posicion": 15,
-                    "nombre": "Vitor Petrino"
+                    "nombre": "Ryan Spann"
                 }
             ]
         },
@@ -546,11 +546,11 @@
                 },
                 {
                     "posicion": 4,
-                    "nombre": "Stipe Miocic"
+                    "nombre": "Curtis Blaydes"
                 },
                 {
                     "posicion": 5,
-                    "nombre": "Curtis Blaydes"
+                    "nombre": "Stipe Miocic"
                 },
                 {
                     "posicion": 6,
@@ -776,11 +776,11 @@
                 },
                 {
                     "posicion": 12,
-                    "nombre": "Ariane Lipski"
+                    "nombre": "Karine Silva"
                 },
                 {
                     "posicion": 13,
-                    "nombre": "Karine Silva"
+                    "nombre": "Ariane da Silva"
                 },
                 {
                     "posicion": 14,

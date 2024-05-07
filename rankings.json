@@ -104,11 +104,11 @@
                 },
                 {
                     "posicion": 9,
-                    "nombre": "Tim Elliott"
+                    "nombre": "Steve Erceg"
                 },
                 {
                     "posicion": 10,
-                    "nombre": "Steve Erceg"
+                    "nombre": "Tim Elliott"
                 },
                 {
                     "posicion": 11,
@@ -166,23 +166,23 @@
                 },
                 {
                     "posicion": 8,
-                    "nombre": "Rob Font"
+                    "nombre": "Jos\u00e9 Aldo"
                 },
                 {
                     "posicion": 9,
-                    "nombre": "Umar Nurmagomedov"
+                    "nombre": "Rob Font"
                 },
                 {
                     "posicion": 10,
-                    "nombre": "Kyler Phillips"
+                    "nombre": "Umar Nurmagomedov"
                 },
                 {
                     "posicion": 11,
-                    "nombre": "Dominick Cruz"
+                    "nombre": "Kyler Phillips"
                 },
                 {
                     "posicion": 12,
-                    "nombre": "Jonathan Martinez"
+                    "nombre": "Dominick Cruz"
                 },
                 {
                     "posicion": 13,
@@ -190,7 +190,7 @@
                 },
                 {
                     "posicion": 14,
-                    "nombre": "Ricky Simon"
+                    "nombre": "Jonathan Martinez"
                 },
                 {
                     "posicion": 15,
@@ -290,11 +290,11 @@
                 },
                 {
                     "posicion": 6,
-                    "nombre": "Beneil Dariush"
+                    "nombre": "Michael Chandler"
                 },
                 {
                     "posicion": 7,
-                    "nombre": "Michael Chandler"
+                    "nombre": "Beneil Dariush"
                 },
                 {
                     "posicion": 8,
@@ -434,27 +434,27 @@
                 },
                 {
                     "posicion": 9,
-                    "nombre": "Roman Dolidze"
-                },
-                {
-                    "posicion": 10,
                     "nombre": "Jack Hermansson"
                 },
                 {
-                    "posicion": 11,
+                    "posicion": 10,
                     "nombre": "Khamzat Chimaev"
                 },
                 {
+                    "posicion": 11,
+                    "nombre": "Roman Dolidze"
+                },
+                {
                     "posicion": 12,
-                    "nombre": "Anthony Hernandez"
+                    "nombre": "Caio Borralho"
                 },
                 {
                     "posicion": 13,
-                    "nombre": "Paul Craig"
+                    "nombre": "Michel Pereira"
                 },
                 {
                     "posicion": 14,
-                    "nombre": "Caio Borralho"
+                    "nombre": "Anthony Hernandez"
                 },
                 {
                     "posicion": 15,
@@ -616,11 +616,11 @@
                 },
                 {
                     "posicion": 5,
-                    "nombre": "Julianna Pe\u00f1a"
+                    "nombre": "Raquel Pennington"
                 },
                 {
-                    "posicion": 6,
-                    "nombre": "Raquel Pennington"
+                    "posicion": 5,
+                    "nombre": "Julianna Pe\u00f1a"
                 },
                 {
                     "posicion": 7,
@@ -648,15 +648,15 @@
                 },
                 {
                     "posicion": 13,
-                    "nombre": "Kayla Harrison"
-                },
-                {
-                    "posicion": 14,
                     "nombre": "Ketlen Vieira"
                 },
                 {
+                    "posicion": 14,
+                    "nombre": "Kayla Harrison"
+                },
+                {
                     "posicion": 15,
-                    "nombre": "Irene Aldana"
+                    "nombre": "Maycee Barber"
                 }
             ]
         },
@@ -714,7 +714,7 @@
                 },
                 {
                     "posicion": 13,
-                    "nombre": "Karolina Kowalkiewicz"
+                    "nombre": "Iasmin Lucindo"
                 },
                 {
                     "posicion": 14,
@@ -722,7 +722,7 @@
                 },
                 {
                     "posicion": 15,
-                    "nombre": "Gillian Robertson"
+                    "nombre": "Karolina Kowalkiewicz"
                 }
             ]
         },
@@ -829,7 +829,7 @@
                     "nombre": "Miesha Tate"
                 },
                 {
-                    "posicion": 9,
+                    "posicion": 8,
                     "nombre": "Karol Rosa"
                 },
                 {

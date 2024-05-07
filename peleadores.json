@@ -61,9 +61,9 @@
             "record": "0-1-0 (W-L-D)"
         },
         {
-            "nombre": "JJ Aldrich",
-            "peso": "Peso Mosca Femenino",
-            "record": "13-6-0 (W-L-D)"
+            "nombre": "Jos\u00e9 Aldo",
+            "peso": "Peso Gallo",
+            "record": "32-8-0 (W-L-D)"
         },
         {
             "nombre": "Irina Alekseeva",
@@ -136,9 +136,9 @@
             "record": "0-0-0 (W-L-D)"
         },
         {
-            "nombre": "Lucas Almeida",
-            "peso": "Peso Pluma",
-            "record": "14-3-0 (W-L-D)"
+            "nombre": "Cesar Almeida",
+            "peso": "Peso Medio",
+            "record": "5-0-0 (W-L-D)"
         },
         {
             "nombre": "Jailton Almeida",
@@ -146,9 +146,9 @@
             "record": "20-3-0 (W-L-D)"
         },
         {
-            "nombre": "Cesar Almeida",
-            "peso": "Peso Medio",
-            "record": "5-0-0 (W-L-D)"
+            "nombre": "Lucas Almeida",
+            "peso": "Peso Pluma",
+            "record": "14-3-0 (W-L-D)"
         },
         {
             "nombre": "Victor Altamirano",
@@ -328,7 +328,7 @@
         {
             "nombre": "Dione Barbosa",
             "peso": "Peso Mosca Femenino",
-            "record": "1-0-0 (W-L-D)"
+            "record": "7-2-0 (W-L-D)"
         },
         {
             "nombre": "Edson Barboza",
@@ -371,14 +371,14 @@
             "record": "16-7-0 (W-L-D)"
         },
         {
-            "nombre": "Javid Basharat",
-            "peso": "Peso Gallo",
-            "record": "14-1-0 (W-L-D)"
-        },
-        {
             "nombre": "Farid Basharat",
             "peso": "Peso Gallo",
             "record": "12-0-0 (W-L-D)"
+        },
+        {
+            "nombre": "Javid Basharat",
+            "peso": "Peso Gallo",
+            "record": "14-1-0 (W-L-D)"
         },
         {
             "nombre": "Bahatebole Batebolati",
@@ -434,6 +434,11 @@
             "nombre": "Rodolfo Bellato",
             "peso": "Peso Semipesado",
             "record": "12-2-0 (W-L-D)"
+        },
+        {
+            "nombre": "Gabriel Benitez",
+            "peso": "Peso Ligero",
+            "record": "23-13-0 (W-L-D)"
         },
         {
             "nombre": "Khadzhimurat Bestaev",
@@ -513,7 +518,7 @@
         {
             "nombre": "Ismael Bonfim",
             "peso": "Peso Ligero",
-            "record": "19-4-0 (W-L-D)"
+            "record": "20-4-0 (W-L-D)"
         },
         {
             "nombre": "Michael Bonnette",
@@ -528,22 +533,17 @@
         {
             "nombre": "Kevin Borjas",
             "peso": "Peso Mosca",
-            "record": "9-2-0 (W-L-D)"
+            "record": "9-3-0 (W-L-D)"
         },
         {
             "nombre": "Caio Borralho",
             "peso": "Peso Medio",
-            "record": "15-1-0 (W-L-D)"
+            "record": "16-1-0 (W-L-D)"
         },
         {
             "nombre": "Zach Borrego",
             "peso": "Peso Medio",
             "record": "0-1-0 (W-L-D)"
-        },
-        {
-            "nombre": "Viacheslav Borshchev",
-            "peso": "Peso Ligero",
-            "record": "7-3-1 (W-L-D)"
         },
         {
             "nombre": "Tanner Boser",
@@ -573,7 +573,7 @@
         {
             "nombre": "Elves Brener",
             "peso": "Peso Ligero",
-            "record": "16-3-0 (W-L-D)"
+            "record": "16-4-0 (W-L-D)"
         },
         {
             "nombre": "Marcos Brigagao",
@@ -581,14 +581,14 @@
             "record": "0-0-0 (W-L-D)"
         },
         {
-            "nombre": "Joanderson Brito",
-            "peso": "Peso Pluma",
-            "record": "16-3-1 (W-L-D)"
-        },
-        {
             "nombre": "Kaik Brito",
             "peso": "Peso Welter",
             "record": "0-1-0 (W-L-D)"
+        },
+        {
+            "nombre": "Joanderson Brito",
+            "peso": "Peso Pluma",
+            "record": "17-3-1 (W-L-D)"
         },
         {
             "nombre": "TJ Brown",
@@ -596,14 +596,14 @@
             "record": "17-11-0 (W-L-D)"
         },
         {
-            "nombre": "Randy Brown",
-            "peso": "Peso Welter",
-            "record": "18-5-0 (W-L-D)"
-        },
-        {
             "nombre": "Matt Brown",
             "peso": "Peso Welter",
             "record": "26-19-0 (W-L-D)"
+        },
+        {
+            "nombre": "Randy Brown",
+            "peso": "Peso Welter",
+            "record": "18-5-0 (W-L-D)"
         },
         {
             "nombre": "Travis Browne",
@@ -624,11 +624,6 @@
             "nombre": "Lukasz Brzeski",
             "peso": "Peso Pesado",
             "record": "9-4-1 (W-L-D)"
-        },
-        {
-            "nombre": "Joaquin Buckley",
-            "peso": "Peso Welter",
-            "record": "18-6-0 (W-L-D)"
         },
         {
             "nombre": "Martin Buday",
@@ -661,14 +656,14 @@
             "record": "0-0-0 (W-L-D)"
         },
         {
-            "nombre": "Herbert Burns",
-            "peso": "Peso Pluma",
-            "record": "11-5-0 (W-L-D)"
-        },
-        {
             "nombre": "Gilbert Burns",
             "peso": "Peso Welter",
             "record": "22-7-0 (W-L-D)"
+        },
+        {
+            "nombre": "Herbert Burns",
+            "peso": "Peso Pluma",
+            "record": "11-5-0 (W-L-D)"
         },
         {
             "nombre": "Jesse Butler",
@@ -684,11 +679,6 @@
             "nombre": "Dennis Buzukja",
             "peso": "Peso Pluma",
             "record": "12-4-0 (W-L-D)"
-        },
-        {
-            "nombre": "Alex Caceres",
-            "peso": "Peso Pluma",
-            "record": "21-14-0 (W-L-D)"
         },
         {
             "nombre": "Priscila Cachoeira",
@@ -781,14 +771,14 @@
             "record": "11-5-0 (W-L-D)"
         },
         {
-            "nombre": "Michael Chandler",
-            "peso": "Peso Ligero",
-            "record": "23-8-0 (W-L-D)"
-        },
-        {
             "nombre": "Chelsea Chandler",
             "peso": "Peso Gallo Femenino",
             "record": "6-2-0 (W-L-D)"
+        },
+        {
+            "nombre": "Michael Chandler",
+            "peso": "Peso Ligero",
+            "record": "23-8-0 (W-L-D)"
         },
         {
             "nombre": "Morgan Charriere",
@@ -881,11 +871,6 @@
             "record": "0-0-0 (W-L-D)"
         },
         {
-            "nombre": "Waldo Cortes-Acosta",
-            "peso": "Peso Pesado",
-            "record": "11-1-0 (W-L-D)"
-        },
-        {
             "nombre": "Reyes Cortez",
             "peso": "Peso Gallo",
             "record": "0-2-0 (W-L-D)"
@@ -896,24 +881,24 @@
             "record": "11-1-0 (W-L-D)"
         },
         {
-            "nombre": "Melquizael Costa",
-            "peso": "Peso Ligero",
-            "record": "20-7-0 (W-L-D)"
-        },
-        {
-            "nombre": "Alessandro Costa",
-            "peso": "Peso Mosca",
-            "record": "13-4-0 (W-L-D)"
-        },
-        {
             "nombre": "Davi Costa",
             "peso": "Peso Mosca",
             "record": "0-0-0 (W-L-D)"
         },
         {
+            "nombre": "Melquizael Costa",
+            "peso": "Peso Ligero",
+            "record": "20-7-0 (W-L-D)"
+        },
+        {
             "nombre": "Paulo Costa",
             "peso": "Peso Medio",
             "record": "14-3-0 (W-L-D)"
+        },
+        {
+            "nombre": "Alessandro Costa",
+            "peso": "Peso Mosca",
+            "record": "14-4-0 (W-L-D)"
         },
         {
             "nombre": "Oscar Cota",
@@ -933,7 +918,7 @@
         {
             "nombre": "Paul Craig",
             "peso": "Peso Medio",
-            "record": "17-7-1 (W-L-D)"
+            "record": "17-8-1 (W-L-D)"
         },
         {
             "nombre": "Kiefer Crosbie",
@@ -1086,11 +1071,6 @@
             "record": "13-5-0 (W-L-D)"
         },
         {
-            "nombre": "Robelis Despaigne",
-            "peso": "Peso Pesado",
-            "record": "5-0-0 (W-L-D)"
-        },
-        {
             "nombre": "Marc Diakiese",
             "peso": "Peso Ligero",
             "record": "17-7-0 (W-L-D)"
@@ -1118,7 +1098,7 @@
         {
             "nombre": "Jhonata Diniz",
             "peso": "Peso Pesado",
-            "record": "1-0-0 (W-L-D)"
+            "record": "7-0-0 (W-L-D)"
         },
         {
             "nombre": "Rico DiSciullo",
@@ -1166,14 +1146,14 @@
             "record": "0-0-0 (W-L-D)"
         },
         {
-            "nombre": "Felipe dos Santos",
-            "peso": "Peso Mosca",
-            "record": "8-1-0 (W-L-D)"
-        },
-        {
             "nombre": "Rayanne dos Santos",
             "peso": "Peso Paja Femenino",
             "record": "14-7-0 (W-L-D)"
+        },
+        {
+            "nombre": "Felipe dos Santos",
+            "peso": "Peso Mosca",
+            "record": "8-1-0 (W-L-D)"
         },
         {
             "nombre": "Kyle Driscoll",
@@ -1271,14 +1251,14 @@
             "record": "28-11-0 (W-L-D)"
         },
         {
-            "nombre": "Oban Elliott",
-            "peso": "Peso Welter",
-            "record": "10-2-0 (W-L-D)"
-        },
-        {
             "nombre": "Tim Elliott",
             "peso": "Peso Mosca",
             "record": "21-13-1 (W-L-D)"
+        },
+        {
+            "nombre": "Oban Elliott",
+            "peso": "Peso Welter",
+            "record": "10-2-0 (W-L-D)"
         },
         {
             "nombre": "Brian Ellis",
@@ -1309,6 +1289,11 @@
             "nombre": "Kolton Englund",
             "peso": "Peso Ligero",
             "record": "0-1-0 (W-L-D)"
+        },
+        {
+            "nombre": "Steve Erceg",
+            "peso": "Peso Mosca",
+            "record": "12-2-0 (W-L-D)"
         },
         {
             "nombre": "Julian Erosa",
@@ -1386,11 +1371,6 @@
             "record": "0-1-0 (W-L-D)"
         },
         {
-            "nombre": "Diego Ferreira",
-            "peso": "Peso Ligero",
-            "record": "18-5-0 (W-L-D)"
-        },
-        {
             "nombre": "Erisson Ferreira",
             "peso": "Peso Mosca",
             "record": "1-1-0 (W-L-D)"
@@ -1404,6 +1384,11 @@
             "nombre": "Andre Fialho",
             "peso": "Peso Welter",
             "record": "16-8-0 (W-L-D)"
+        },
+        {
+            "nombre": "Michal Figlak",
+            "peso": "Peso Ligero",
+            "record": "8-2-0 (W-L-D)"
         },
         {
             "nombre": "Deiveson Figueiredo",
@@ -1526,11 +1511,6 @@
             "record": "0-0-0 (W-L-D)"
         },
         {
-            "nombre": "Fernie Garcia",
-            "peso": "Peso Gallo",
-            "record": "10-5-0 (W-L-D)"
-        },
-        {
             "nombre": "Rafa Garcia",
             "peso": "Peso Ligero",
             "record": "16-3-0 (W-L-D)"
@@ -1539,6 +1519,11 @@
             "nombre": "Steve Garcia",
             "peso": "Peso Ligero",
             "record": "15-5-0 (W-L-D)"
+        },
+        {
+            "nombre": "Fernie Garcia",
+            "peso": "Peso Gallo",
+            "record": "10-5-0 (W-L-D)"
         },
         {
             "nombre": "Kelvin Gastelum",
@@ -1601,11 +1586,6 @@
             "record": "12-4-0 (W-L-D)"
         },
         {
-            "nombre": "Billy Goff",
-            "peso": "Peso Welter",
-            "record": "9-2-0 (W-L-D)"
-        },
-        {
             "nombre": "Amiran Gogoladze",
             "peso": "Peso Welter",
             "record": "0-1-0 (W-L-D)"
@@ -1639,11 +1619,6 @@
             "nombre": "Lyman Good",
             "peso": "Peso Welter",
             "record": "21-6-0 (W-L-D)"
-        },
-        {
-            "nombre": "Jared Gooden",
-            "peso": "Peso Welter",
-            "record": "23-9-0 (W-L-D)"
         },
         {
             "nombre": "Jared Gordon",
@@ -1731,14 +1706,14 @@
             "record": "38-21-0 (W-L-D)"
         },
         {
+            "nombre": "Bogdan Guskov",
+            "peso": "Peso Semipesado",
+            "record": "16-3-0 (W-L-D)"
+        },
+        {
             "nombre": "Alexander Gustafsson",
             "peso": "Peso Semipesado",
             "record": "18-8-0 (W-L-D)"
-        },
-        {
-            "nombre": "Chris Gutierrez",
-            "peso": "Peso Gallo",
-            "record": "20-5-2 (W-L-D)"
         },
         {
             "nombre": "Mando Gutierrez",
@@ -1746,14 +1721,14 @@
             "record": "0-1-0 (W-L-D)"
         },
         {
+            "nombre": "Chris Gutierrez",
+            "peso": "Peso Gallo",
+            "record": "20-5-2 (W-L-D)"
+        },
+        {
             "nombre": "Chelsea Hackett",
             "peso": "Peso Mosca Femenino",
             "record": "0-1-0 (W-L-D)"
-        },
-        {
-            "nombre": "Jake Hadley",
-            "peso": "Peso Mosca",
-            "record": "10-2-0 (W-L-D)"
         },
         {
             "nombre": "Damir Hadzovic",
@@ -1836,6 +1811,11 @@
             "record": "12-4-0 (W-L-D)"
         },
         {
+            "nombre": "Victor Henry",
+            "peso": "Peso Gallo",
+            "record": "24-6-0 (W-L-D)"
+        },
+        {
             "nombre": "Jai Herbert",
             "peso": "Peso Ligero",
             "record": "12-5-1 (W-L-D)"
@@ -1846,6 +1826,11 @@
             "record": "24-8-0 (W-L-D)"
         },
         {
+            "nombre": "Alexander Hernandez",
+            "peso": "Peso Pluma",
+            "record": "14-8-0 (W-L-D)"
+        },
+        {
             "nombre": "Carlos Hernandez",
             "peso": "Peso Mosca",
             "record": "9-3-0 (W-L-D)"
@@ -1854,11 +1839,6 @@
             "nombre": "Anthony Hernandez",
             "peso": "Peso Medio",
             "record": "12-2-0 (W-L-D)"
-        },
-        {
-            "nombre": "Alexander Hernandez",
-            "peso": "Peso Pluma",
-            "record": "14-8-0 (W-L-D)"
         },
         {
             "nombre": "Brady Hiestand",
@@ -1911,14 +1891,14 @@
             "record": "23-12-0 (W-L-D)"
         },
         {
-            "nombre": "Chase Hooper",
-            "peso": "Peso Ligero",
-            "record": "13-3-1 (W-L-D)"
-        },
-        {
             "nombre": "Jamey-Lyn Horth",
             "peso": "Peso Mosca Femenino",
             "record": "6-1-0 (W-L-D)"
+        },
+        {
+            "nombre": "Austin Hubbard",
+            "peso": "Peso Ligero",
+            "record": "16-7-0 (W-L-D)"
         },
         {
             "nombre": "Sam Hughes",
@@ -2036,19 +2016,14 @@
             "record": "14-2-0 (W-L-D)"
         },
         {
-            "nombre": "Michael Johnson",
-            "peso": "Peso Ligero",
-            "record": "23-19-0 (W-L-D)"
-        },
-        {
-            "nombre": "Charles Johnson",
-            "peso": "Peso Mosca",
-            "record": "14-6-0 (W-L-D)"
-        },
-        {
             "nombre": "Jose Johnson",
             "peso": "Peso Gallo",
             "record": "16-8-0 (W-L-D)"
+        },
+        {
+            "nombre": "Michael Johnson",
+            "peso": "Peso Ligero",
+            "record": "23-19-0 (W-L-D)"
         },
         {
             "nombre": "Jamelle Jones",
@@ -2069,11 +2044,6 @@
             "nombre": "Charles Jourdain",
             "peso": "Peso Pluma",
             "record": "15-7-1 (W-L-D)"
-        },
-        {
-            "nombre": "Kevin Jousset",
-            "peso": "Peso Welter",
-            "record": "10-2-0 (W-L-D)"
         },
         {
             "nombre": "Dustin Joynson",
@@ -2136,9 +2106,9 @@
             "record": "19-6-0 (W-L-D)"
         },
         {
-            "nombre": "Ernesta Kareckaite",
+            "nombre": "Ernesta Kareckait\u0117",
             "peso": "Peso Mosca Femenino",
-            "record": "1-0-0 (W-L-D)"
+            "record": "5-1-1 (W-L-D)"
         },
         {
             "nombre": "Brad Katona",
@@ -2169,11 +2139,6 @@
             "nombre": "Aliaskhab Khizriev",
             "peso": "Peso Medio",
             "record": "14-0-0 (W-L-D)"
-        },
-        {
-            "nombre": "WonBin Ki",
-            "peso": "Peso Ligero",
-            "record": "1-2-0 (W-L-D)"
         },
         {
             "nombre": "Pannie Kianzad",
@@ -2223,7 +2188,7 @@
         {
             "nombre": "Drakkar Klose",
             "peso": "Peso Ligero",
-            "record": "14-2-1 (W-L-D)"
+            "record": "15-2-1 (W-L-D)"
         },
         {
             "nombre": "Josefine Knutsson",
@@ -2243,7 +2208,7 @@
         {
             "nombre": "Karolina Kowalkiewicz",
             "peso": "Peso Paja Femenino",
-            "record": "16-7-0 (W-L-D)"
+            "record": "16-8-0 (W-L-D)"
         },
         {
             "nombre": "James Krause",
@@ -2311,6 +2276,11 @@
             "record": "18-5-0 (W-L-D)"
         },
         {
+            "nombre": "Austen Lane",
+            "peso": "Peso Pesado",
+            "record": "12-5-0 (W-L-D)"
+        },
+        {
             "nombre": "Taylor Lapilus",
             "peso": "Peso Gallo",
             "record": "19-4-0 (W-L-D)"
@@ -2341,11 +2311,6 @@
             "record": "18-8-0 (W-L-D)"
         },
         {
-            "nombre": "JeongYeong Lee",
-            "peso": "Peso Pluma",
-            "record": "11-1-0 (W-L-D)"
-        },
-        {
             "nombre": "Jung Hyun Lee",
             "peso": "Peso Mosca",
             "record": "0-1-0 (W-L-D)"
@@ -2354,6 +2319,11 @@
             "nombre": "Chang Ho Lee",
             "peso": "Peso Gallo",
             "record": "2-0-0 (W-L-D)"
+        },
+        {
+            "nombre": "JeongYeong Lee",
+            "peso": "Peso Pluma",
+            "record": "11-1-0 (W-L-D)"
         },
         {
             "nombre": "Andrea Lee",
@@ -2386,9 +2356,9 @@
             "record": "0-2-0 (W-L-D)"
         },
         {
-            "nombre": "Derrick Lewis",
-            "peso": "Peso Pesado",
-            "record": "27-12-0 (W-L-D)"
+            "nombre": "Liang Na",
+            "peso": "Peso Mosca Femenino",
+            "record": "17-8-0 (W-L-D)"
         },
         {
             "nombre": "Rodrigo Lidio",
@@ -2414,6 +2384,11 @@
             "nombre": "Tainara Lisboa",
             "peso": "Peso Gallo Femenino",
             "record": "7-2-0 (W-L-D)"
+        },
+        {
+            "nombre": "James Llontop",
+            "peso": "Peso Ligero",
+            "record": "14-3-0 (W-L-D)"
         },
         {
             "nombre": "Christian Lohsen",
@@ -2457,8 +2432,8 @@
         },
         {
             "nombre": "Iasmin Lucindo",
-            "peso": "Peso Mosca Femenino",
-            "record": "15-5-0 (W-L-D)"
+            "peso": "Peso Paja Femenino",
+            "record": "16-5-0 (W-L-D)"
         },
         {
             "nombre": "Vicente Luque",
@@ -2471,9 +2446,9 @@
             "record": "12-4-0 (W-L-D)"
         },
         {
-            "nombre": "Veronica Hardy",
-            "peso": "Peso Mosca Femenino",
-            "record": "8-4-1 (W-L-D)"
+            "nombre": "Caio Machado",
+            "peso": "Peso Pesado",
+            "record": "8-3-1 (W-L-D)"
         },
         {
             "nombre": "Ian Machado Garry",
@@ -2509,6 +2484,11 @@
             "nombre": "Abus Magomedov",
             "peso": "Peso Medio",
             "record": "25-6-1 (W-L-D)"
+        },
+        {
+            "nombre": "Maheshate",
+            "peso": "Peso Ligero",
+            "record": "10-3-0 (W-L-D)"
         },
         {
             "nombre": "Jennifer Maia",
@@ -2551,6 +2531,11 @@
             "record": "15-3-0 (W-L-D)"
         },
         {
+            "nombre": "Marnic Mann",
+            "peso": "Peso Paja Femenino",
+            "record": "6-3-0 (W-L-D)"
+        },
+        {
             "nombre": "Daniel Marcos",
             "peso": "Peso Gallo",
             "record": "15-0-0 (W-L-D)"
@@ -2568,7 +2553,7 @@
         {
             "nombre": "Brendon Marotte",
             "peso": "Peso Pluma",
-            "record": "8-2-0 (W-L-D)"
+            "record": "12-1-1 (W-L-D)"
         },
         {
             "nombre": "Julian Marquez",
@@ -2626,19 +2611,24 @@
             "record": "15-0-0 (W-L-D)"
         },
         {
-            "nombre": "Jake Matthews",
-            "peso": "Peso Welter",
-            "record": "19-7-0 (W-L-D)"
-        },
-        {
             "nombre": "Connor Matthews",
             "peso": "Peso Pluma",
             "record": "7-2-0 (W-L-D)"
         },
         {
+            "nombre": "Jake Matthews",
+            "peso": "Peso Welter",
+            "record": "19-7-0 (W-L-D)"
+        },
+        {
             "nombre": "Miranda Maverick",
             "peso": "Peso Mosca Femenino",
             "record": "15-5-0 (W-L-D)"
+        },
+        {
+            "nombre": "Don'Tale Mayes",
+            "peso": "Peso Pesado",
+            "record": "11-6-0 (W-L-D)"
         },
         {
             "nombre": "Molly McCann",
@@ -2676,14 +2666,19 @@
             "record": "8-3-0 (W-L-D)"
         },
         {
-            "nombre": "Terrance McKinney",
-            "peso": "Peso Ligero",
-            "record": "15-6-0 (W-L-D)"
+            "nombre": "Tim Means",
+            "peso": "Peso Welter",
+            "record": "33-16-1 (W-L-D)"
         },
         {
             "nombre": "MarQuel Mederos",
             "peso": "Peso Ligero",
             "record": "9-1-0 (W-L-D)"
+        },
+        {
+            "nombre": "Uro\u0161 Medi\u0107",
+            "peso": "Peso Welter",
+            "record": "10-2-0 (W-L-D)"
         },
         {
             "nombre": "Gerald Meerschaert",
@@ -2699,11 +2694,6 @@
             "nombre": "Mateus Mendon\u00e7a",
             "peso": "Peso Mosca",
             "record": "10-3-0 (W-L-D)"
-        },
-        {
-            "nombre": "Alonzo Menifield",
-            "peso": "Peso Semipesado",
-            "record": "15-3-1 (W-L-D)"
         },
         {
             "nombre": "Juliana Miller",
@@ -2828,7 +2818,7 @@
         {
             "nombre": "Jamie Mullarkey",
             "peso": "Peso Ligero",
-            "record": "17-7-0 (W-L-D)"
+            "record": "17-8-0 (W-L-D)"
         },
         {
             "nombre": "Pedro Munhoz",
@@ -2854,11 +2844,6 @@
             "nombre": "Olivier Murad",
             "peso": "Peso Pluma",
             "record": "1-0-0 (W-L-D)"
-        },
-        {
-            "nombre": "Makhmud Muradov",
-            "peso": "Peso Medio",
-            "record": "26-8-0 (W-L-D)"
         },
         {
             "nombre": "Kanako Murata",
@@ -2909,11 +2894,6 @@
             "nombre": "Allan Nascimento",
             "peso": "Peso Mosca",
             "record": "20-6-0 (W-L-D)"
-        },
-        {
-            "nombre": "Rodrigo Nascimento",
-            "peso": "Peso Pesado",
-            "record": "11-1-0 (W-L-D)"
         },
         {
             "nombre": "Nasrudin Nasrudinov",
@@ -2969,6 +2949,11 @@
             "nombre": "Bo Nickal",
             "peso": "Peso Medio",
             "record": "6-0-0 (W-L-D)"
+        },
+        {
+            "nombre": "Matheus Nicolau",
+            "peso": "Peso Mosca",
+            "record": "19-5-1 (W-L-D)"
         },
         {
             "nombre": "Chidi Njokuani",
@@ -3081,14 +3066,14 @@
             "record": "0-1-0 (W-L-D)"
         },
         {
-            "nombre": "Vinicius Oliveira",
-            "peso": "Peso Gallo",
-            "record": "20-3-0 (W-L-D)"
-        },
-        {
             "nombre": "Charles Oliveira",
             "peso": "Peso Ligero",
             "record": "34-10-0 (W-L-D)"
+        },
+        {
+            "nombre": "Vinicius Oliveira",
+            "peso": "Peso Gallo",
+            "record": "20-3-0 (W-L-D)"
         },
         {
             "nombre": "Ravena Oliveira",
@@ -3098,12 +3083,12 @@
         {
             "nombre": "David Onama",
             "peso": "Peso Pluma",
-            "record": "11-2-0 (W-L-D)"
+            "record": "12-2-0 (W-L-D)"
         },
         {
             "nombre": "Myktybek Orolbai",
-            "peso": "Peso Welter",
-            "record": "12-1-1 (W-L-D)"
+            "peso": "Peso Ligero",
+            "record": "13-1-1 (W-L-D)"
         },
         {
             "nombre": "Brian Ortega",
@@ -3153,7 +3138,7 @@
         {
             "nombre": "Alexandre Pantoja",
             "peso": "Peso Mosca",
-            "record": "27-5-0 (W-L-D)"
+            "record": "28-5-0 (W-L-D)"
         },
         {
             "nombre": "Kathryn Paprocki",
@@ -3166,11 +3151,6 @@
             "record": "15-8-0 (W-L-D)"
         },
         {
-            "nombre": "Junyong Park",
-            "peso": "Peso Medio",
-            "record": "17-5-0 (W-L-D)"
-        },
-        {
             "nombre": "Jae Hyun Park",
             "peso": "Peso Ligero",
             "record": "0-1-0 (W-L-D)"
@@ -3179,6 +3159,11 @@
             "nombre": "HyunSung Park",
             "peso": "Peso Mosca",
             "record": "9-0-0 (W-L-D)"
+        },
+        {
+            "nombre": "Junyong Park",
+            "peso": "Peso Medio",
+            "record": "17-5-0 (W-L-D)"
         },
         {
             "nombre": "Mick Parkin",
@@ -3228,7 +3213,7 @@
         {
             "nombre": "Jonathan Pearce",
             "peso": "Peso Pluma",
-            "record": "14-5-0 (W-L-D)"
+            "record": "14-6-0 (W-L-D)"
         },
         {
             "nombre": "Trevor Peek",
@@ -3251,11 +3236,6 @@
             "record": "14-8-0 (W-L-D)"
         },
         {
-            "nombre": "Tecia Pennington",
-            "peso": "Peso Paja Femenino",
-            "record": "13-6-0 (W-L-D)"
-        },
-        {
             "nombre": "Raquel Pennington",
             "peso": "Peso Gallo Femenino",
             "record": "16-9-0 (W-L-D)"
@@ -3273,12 +3253,17 @@
         {
             "nombre": "Michel Pereira",
             "peso": "Peso Medio",
-            "record": "29-11-0 (W-L-D)"
+            "record": "30-11-0 (W-L-D)"
         },
         {
             "nombre": "Ailin Perez",
             "peso": "Peso Gallo Femenino",
             "record": "9-2-0 (W-L-D)"
+        },
+        {
+            "nombre": "Alex Perez",
+            "peso": "Peso Mosca",
+            "record": "25-8-0 (W-L-D)"
         },
         {
             "nombre": "Thomas Petersen",
@@ -3288,7 +3273,7 @@
         {
             "nombre": "Vitor Petrino",
             "peso": "Peso Semipesado",
-            "record": "11-0-0 (W-L-D)"
+            "record": "11-1-0 (W-L-D)"
         },
         {
             "nombre": "Andre Petroski",
@@ -3299,6 +3284,11 @@
             "nombre": "Armen Petrosyan",
             "peso": "Peso Medio",
             "record": "9-3-0 (W-L-D)"
+        },
+        {
+            "nombre": "Ivana Petrovic",
+            "peso": "Peso Mosca Femenino",
+            "record": "7-1-0 (W-L-D)"
         },
         {
             "nombre": "Peter Petties",
@@ -3313,7 +3303,7 @@
         {
             "nombre": "Vinc Pichel",
             "peso": "Peso Ligero",
-            "record": "14-3-0 (W-L-D)"
+            "record": "14-4-0 (W-L-D)"
         },
         {
             "nombre": "Fabiola Pidroni",
@@ -3362,8 +3352,8 @@
         },
         {
             "nombre": "Ihor Potieria",
-            "peso": "Peso Semipesado",
-            "record": "20-5-0 (W-L-D)"
+            "peso": "Peso Medio",
+            "record": "20-6-0 (W-L-D)"
         },
         {
             "nombre": "Marcin Prachnio",
@@ -3521,16 +3511,6 @@
             "record": "15-6-0 (W-L-D)"
         },
         {
-            "nombre": "Esteban Ribovics",
-            "peso": "Peso Ligero",
-            "record": "12-1-0 (W-L-D)"
-        },
-        {
-            "nombre": "Tabatha Ricci",
-            "peso": "Peso Paja Femenino",
-            "record": "9-2-0 (W-L-D)"
-        },
-        {
             "nombre": "Brad Riddell",
             "peso": "Peso Ligero",
             "record": "10-4-0 (W-L-D)"
@@ -3571,39 +3551,19 @@
             "record": "1-0-0 (W-L-D)"
         },
         {
-            "nombre": "Gregory Rodrigues",
-            "peso": "Peso Medio",
-            "record": "15-5-0 (W-L-D)"
-        },
-        {
             "nombre": "Kleydson Rodrigues",
             "peso": "Peso Gallo",
             "record": "8-3-0 (W-L-D)"
         },
         {
+            "nombre": "Gregory Rodrigues",
+            "peso": "Peso Medio",
+            "record": "15-5-0 (W-L-D)"
+        },
+        {
             "nombre": "Daniel Rodriguez",
             "peso": "Peso Welter",
             "record": "17-4-0 (W-L-D)"
-        },
-        {
-            "nombre": "Pete Rodriguez",
-            "peso": "Peso Welter",
-            "record": "5-2-0 (W-L-D)"
-        },
-        {
-            "nombre": "Ronaldo Rodriguez",
-            "peso": "Peso Mosca",
-            "record": "17-2-0 (W-L-D)"
-        },
-        {
-            "nombre": "Christian Rodriguez",
-            "peso": "Peso Pluma",
-            "record": "11-1-0 (W-L-D)"
-        },
-        {
-            "nombre": "Yair Rodriguez",
-            "peso": "Peso Pluma",
-            "record": "16-5-0 (W-L-D)"
         },
         {
             "nombre": "Piera Rodriguez",
@@ -3614,6 +3574,26 @@
             "nombre": "Marina Rodriguez",
             "peso": "Peso Paja Femenino",
             "record": "17-4-2 (W-L-D)"
+        },
+        {
+            "nombre": "Pete Rodriguez",
+            "peso": "Peso Welter",
+            "record": "5-2-0 (W-L-D)"
+        },
+        {
+            "nombre": "Yair Rodriguez",
+            "peso": "Peso Pluma",
+            "record": "16-5-0 (W-L-D)"
+        },
+        {
+            "nombre": "Christian Rodriguez",
+            "peso": "Peso Pluma",
+            "record": "11-1-0 (W-L-D)"
+        },
+        {
+            "nombre": "Ronaldo Rodriguez",
+            "peso": "Peso Mosca",
+            "record": "17-2-0 (W-L-D)"
         },
         {
             "nombre": "Alexandr Romanov",
@@ -3687,18 +3667,13 @@
         },
         {
             "nombre": "Mauricio Ruffy",
-            "peso": "Peso Welter",
-            "record": "0-0-0 (W-L-D)"
+            "peso": "Peso Ligero",
+            "record": "10-1-0 (W-L-D)"
         },
         {
             "nombre": "Montserrat Ruiz",
             "peso": "Peso Paja Femenino",
             "record": "10-4-0 (W-L-D)"
-        },
-        {
-            "nombre": "Nursulton Ruziboev",
-            "peso": "Peso Medio",
-            "record": "34-8-2 (W-L-D)"
         },
         {
             "nombre": "Cameron Saaiman",
@@ -3786,11 +3761,6 @@
             "record": "0-1-0 (W-L-D)"
         },
         {
-            "nombre": "Luana Santos",
-            "peso": "Peso Gallo Femenino",
-            "record": "7-1-0 (W-L-D)"
-        },
-        {
             "nombre": "Gabriel Santos",
             "peso": "Peso Pluma",
             "record": "10-2-0 (W-L-D)"
@@ -3799,6 +3769,11 @@
             "nombre": "Yana Santos",
             "peso": "Peso Pluma Femenino",
             "record": "14-8-0 (W-L-D)"
+        },
+        {
+            "nombre": "Luana Santos",
+            "peso": "Peso Gallo Femenino",
+            "record": "7-1-0 (W-L-D)"
         },
         {
             "nombre": "Jeka Saragih",
@@ -3814,11 +3789,6 @@
             "nombre": "Brandon Sayles",
             "peso": "Peso Pesado",
             "record": "0-0-0 (W-L-D)"
-        },
-        {
-            "nombre": "Matt Schnell",
-            "peso": "Peso Mosca",
-            "record": "16-8-0 (W-L-D)"
         },
         {
             "nombre": "Matthew Semelsberger",
@@ -3853,7 +3823,7 @@
         {
             "nombre": "Jack Shore",
             "peso": "Peso Pluma",
-            "record": "17-1-0 (W-L-D)"
+            "record": "17-2-0 (W-L-D)"
         },
         {
             "nombre": "Ronal Siahaan",
@@ -3869,11 +3839,6 @@
             "nombre": "Bruno Silva",
             "peso": "Peso Mosca",
             "record": "13-5-2 (W-L-D)"
-        },
-        {
-            "nombre": "Joaquim Silva",
-            "peso": "Peso Ligero",
-            "record": "13-5-0 (W-L-D)"
         },
         {
             "nombre": "Jansey Silva",
@@ -3901,6 +3866,11 @@
             "record": "0-1-0 (W-L-D)"
         },
         {
+            "nombre": "Mayra Bueno Silva",
+            "peso": "Peso Gallo Femenino",
+            "record": "10-3-1 (W-L-D)"
+        },
+        {
             "nombre": "Erik Silva",
             "peso": "Peso Pluma",
             "record": "9-3-0 (W-L-D)"
@@ -3911,24 +3881,29 @@
             "record": "9-1-0 (W-L-D)"
         },
         {
-            "nombre": "Bruno Silva",
-            "peso": "Peso Medio",
-            "record": "23-11-0 (W-L-D)"
-        },
-        {
             "nombre": "Natalia Silva",
             "peso": "Peso Mosca Femenino",
             "record": "17-5-1 (W-L-D)"
         },
         {
-            "nombre": "Mayra Bueno Silva",
-            "peso": "Peso Gallo Femenino",
-            "record": "10-3-1 (W-L-D)"
+            "nombre": "Bruno Silva",
+            "peso": "Peso Medio",
+            "record": "23-11-0 (W-L-D)"
+        },
+        {
+            "nombre": "Karine Silva",
+            "peso": "Peso Mosca Femenino",
+            "record": "18-4-0 (W-L-D)"
         },
         {
             "nombre": "Jean Silva",
             "peso": "Peso Pluma",
             "record": "12-2-0 (W-L-D)"
+        },
+        {
+            "nombre": "Joaquim Silva",
+            "peso": "Peso Ligero",
+            "record": "13-6-0 (W-L-D)"
         },
         {
             "nombre": "Douglas Silva de Andrade",
@@ -3948,7 +3923,7 @@
         {
             "nombre": "Anthony Smith",
             "peso": "Peso Semipesado",
-            "record": "37-19-0 (W-L-D)"
+            "record": "38-19-0 (W-L-D)"
         },
         {
             "nombre": "Cameron Smotherman",
@@ -3999,6 +3974,16 @@
             "nombre": "Willian Souza",
             "peso": "Peso Gallo",
             "record": "0-0-0 (W-L-D)"
+        },
+        {
+            "nombre": "Ketlen Souza",
+            "peso": "Peso Paja Femenino",
+            "record": "14-4-0 (W-L-D)"
+        },
+        {
+            "nombre": "Ryan Spann",
+            "peso": "Peso Semipesado",
+            "record": "21-10-0 (W-L-D)"
         },
         {
             "nombre": "Serghei Spivac",
@@ -4096,14 +4081,14 @@
             "record": "0-1-0 (W-L-D)"
         },
         {
-            "nombre": "Junior Tafa",
-            "peso": "Peso Pesado",
-            "record": "5-2-0 (W-L-D)"
-        },
-        {
             "nombre": "Justin Tafa",
             "peso": "Peso Pesado",
             "record": "7-4-0 (W-L-D)"
+        },
+        {
+            "nombre": "Junior Tafa",
+            "peso": "Peso Pesado",
+            "record": "5-2-0 (W-L-D)"
         },
         {
             "nombre": "Tatsuro Taira",
@@ -4251,11 +4236,6 @@
             "record": "16-2-0 (W-L-D)"
         },
         {
-            "nombre": "Carlos Ulberg",
-            "peso": "Peso Semipesado",
-            "record": "10-1-0 (W-L-D)"
-        },
-        {
             "nombre": "Elias Urbina",
             "peso": "Peso Medio",
             "record": "3-1-0 (W-L-D)"
@@ -4271,19 +4251,14 @@
             "record": "10-4-0 (W-L-D)"
         },
         {
-            "nombre": "Kamaru Usman",
-            "peso": "Peso Medio",
-            "record": "20-4-0 (W-L-D)"
-        },
-        {
             "nombre": "Mohammed Usman",
             "peso": "Peso Pesado",
             "record": "11-3-0 (W-L-D)"
         },
         {
-            "nombre": "Genaro Valdez",
-            "peso": "Peso Ligero",
-            "record": "10-3-0 (W-L-D)"
+            "nombre": "Kamaru Usman",
+            "peso": "Peso Medio",
+            "record": "20-4-0 (W-L-D)"
         },
         {
             "nombre": "Ivan Valenzuela",
@@ -4351,14 +4326,14 @@
             "record": "7-2-0 (W-L-D)"
         },
         {
-            "nombre": "Rodolfo Vieira",
-            "peso": "Peso Medio",
-            "record": "10-2-0 (W-L-D)"
-        },
-        {
             "nombre": "Ketlen Vieira",
             "peso": "Peso Gallo Femenino",
             "record": "14-3-0 (W-L-D)"
+        },
+        {
+            "nombre": "Rodolfo Vieira",
+            "peso": "Peso Medio",
+            "record": "10-2-0 (W-L-D)"
         },
         {
             "nombre": "Cheyanne Vlismas",
@@ -4391,14 +4366,14 @@
             "record": "8-4-0 (W-L-D)"
         },
         {
-            "nombre": "Johnny Walker",
-            "peso": "Peso Semipesado",
-            "record": "21-8-0 (W-L-D)"
-        },
-        {
             "nombre": "Valter Walker",
             "peso": "Peso Pesado",
             "record": "11-1-0 (W-L-D)"
+        },
+        {
+            "nombre": "Johnny Walker",
+            "peso": "Peso Semipesado",
+            "record": "21-8-0 (W-L-D)"
         },
         {
             "nombre": "Austin Wall",
@@ -4409,11 +4384,6 @@
             "nombre": "Joshua Wang-Kim",
             "peso": "Peso Gallo",
             "record": "0-1-0 (W-L-D)"
-        },
-        {
-            "nombre": "Trey Waters",
-            "peso": "Peso Welter",
-            "record": "8-1-0 (W-L-D)"
         },
         {
             "nombre": "Michelle Waterson-Gomez",
@@ -4496,14 +4466,14 @@
             "record": "7-2-0 (W-L-D)"
         },
         {
-            "nombre": "Sean Woodson",
-            "peso": "Peso Pluma",
-            "record": "11-1-1 (W-L-D)"
-        },
-        {
             "nombre": "Mohammad Yahya",
             "peso": "Peso Pluma",
             "record": "12-4-0 (W-L-D)"
+        },
+        {
+            "nombre": "Rani Yahya",
+            "peso": "Peso Gallo",
+            "record": "28-12-1 (W-L-D)"
         },
         {
             "nombre": "Petr Yan",
@@ -4513,7 +4483,7 @@
         {
             "nombre": "Yan Xiaonan",
             "peso": "Peso Paja Femenino",
-            "record": "17-4-0 (W-L-D)"
+            "record": "18-4-0 (W-L-D)"
         },
         {
             "nombre": "Adrian Yanez",
@@ -4574,11 +4544,6 @@
             "nombre": "Zhang Weili",
             "peso": "Peso Paja Femenino",
             "record": "25-3-0 (W-L-D)"
-        },
-        {
-            "nombre": "Daermisi Zhawupasi",
-            "peso": "Peso Gallo",
-            "record": "1-1-0 (W-L-D)"
         },
         {
             "nombre": "Daria Zhelezniakova",

@@ -22,11 +22,11 @@ body {
 }
 
 .texto {
-    height: 500px;
+    height: auto;
     width: auto;
     position: absolute;
-    top: 400px;
-    left: 180px;
+    top: 30%;
+    left: 15%;
     transform: translate(-50%, -50%);
     color: #000000;
     text-align: center;
